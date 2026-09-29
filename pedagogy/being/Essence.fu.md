@@ -1,0 +1,4 @@
+- VERTEX Essence
+- KIND transcendental
+- GLOSS what-a-thing-is
+- CLAIM Essence is what a thing is, not who holds the file.

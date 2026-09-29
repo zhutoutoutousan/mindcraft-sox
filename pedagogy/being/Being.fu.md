@@ -1,0 +1,6 @@
+- VERTEX Being
+- KIND transcendental
+- GLOSS that-which-is
+- CLAIM Being is not a thing among things. It is that there is anything rather than nothing.
+- CLAIM Do not confuse Being with a person. A CV names one being. Ontology names being as such.
+- SOURCE pedagogy/ontology.fu.md

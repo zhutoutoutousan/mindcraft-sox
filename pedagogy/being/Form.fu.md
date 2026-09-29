@@ -1,0 +1,4 @@
+- VERTEX Form
+- KIND transcendental
+- GLOSS intelligible-structure
+- CLAIM Form is the structure a store can be read by.

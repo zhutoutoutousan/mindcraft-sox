@@ -1,0 +1,3 @@
+# Recycle journal
+
+Empty.

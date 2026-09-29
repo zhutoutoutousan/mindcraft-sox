@@ -1,0 +1,2 @@
+- NOTE TODAY empty. Write the day's queue here. Do not paste Ausweis, phone, home address, or mailbox passwords.
+- TODO $id=first-goal $prompt=Name one goal in self/goals.toon.md. Do not invent ANSWER.

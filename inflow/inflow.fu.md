@@ -1,0 +1,2 @@
+- KIND inbound news. Not the life queue.
+- RULE each NEWS row needs a URL. PII never stays here.

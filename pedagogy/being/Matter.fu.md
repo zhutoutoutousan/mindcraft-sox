@@ -1,0 +1,4 @@
+- VERTEX Matter
+- KIND transcendental
+- GLOSS that-which-receives-form
+- CLAIM Matter is what a form is said of. Personal particulars are not this vertex.

@@ -1,0 +1,2 @@
+- KIND away-loop buffer.
+- RULE drip only after a PII pass. Empty.
