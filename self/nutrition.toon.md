@@ -133,6 +133,23 @@ Bilder: `/workspace/assets/01a0f3ae-4edc-7d1d-b43d-11667ddf1899.jpg`, `01a0f3ae-
 - Hoher Zuckergehalt durch Bubble Tea
 - Traditionelles asiatisches Abendessen mit Suppe und Hauptgericht
 
+#### Aktivität & Training (30.09.2026)
+Quelle: Schritt-Tracking App
+Bild: `/workspace/assets/01a0f3c3-f772-7e33-8c22-5108229c82c6.jpg`
+
+**Schritte:** 9.765 Schritte
+**Geschätzte Gehzeit:** ~98 Minuten (~1,6 Stunden)
+**Kalorienverbrauch:** ca. 390 kcal
+
+**Berechnung:**
+```
+Moderate Gehgeschwindigkeit: ~3.5 METs
+Kalorien = METs × Körpergewicht (kg) × Zeit (Stunden)
+Kalorien = 3.5 × 66.5 kg × 1.63 h ≈ 390 kcal
+```
+
+**Aktivitätslevel heute:** Mäßig aktiv (9.765 Schritte = überdurchschnittlich, WHO empfiehlt 10.000)
+
 ## Tägliche Kalorienbilanz / Daily Balance
 
 ### 2026-09-30
@@ -140,21 +157,30 @@ Bilder: `/workspace/assets/01a0f3ae-4edc-7d1d-b43d-11667ddf1899.jpg`, `01a0f3ae-
   - Mahlzeit 1 (Frühstück/Brunch): 855 kcal
   - Mahlzeit 2 (Abendessen): 1445 kcal
 
-**Grundumsatz (BMR):** 1354 kcal
-**Geschätzter Tagesbedarf (TDEE):** 1625-2336 kcal (abhängig von Aktivitätslevel)
-**Kalorienverbrauch durch Training:** (siehe training.toon.md)
+**Kalorienverbrauch durch Aktivität:** 390 kcal
+  - Gehen: 9.765 Schritte (~98 Min.)
 
-**Bilanz:**
-- Bei sitzender Tätigkeit (1625 kcal Bedarf): +675 kcal Überschuss ⚠️
-- Bei leichter Aktivität (1862 kcal): +438 kcal Überschuss ⚠️
-- Bei mäßiger Aktivität (2099 kcal): +201 kcal Überschuss
-- Bei sehr aktiver Tätigkeit (2336 kcal): -36 kcal (ausgeglichen) ✓
+**Grundumsatz (BMR):** 1354 kcal
+**Tatsächlicher Tagesbedarf:** BMR + Aktivität = 1354 + 390 = **1744 kcal**
+**TDEE (mit Aktivitätsfaktor 1.55 - mäßig aktiv):** 2099 kcal
+
+**Netto-Bilanz:**
+- Zufuhr: 2300 kcal
+- Verbrauch (BMR + Aktivität): 1744 kcal
+- **Netto-Überschuss: +556 kcal**
+
+**Alternative Betrachtung (TDEE-Methode):**
+- Zufuhr: 2300 kcal
+- TDEE (mäßig aktiv): 2099 kcal
+- **Überschuss: +201 kcal** (moderater Überschuss)
 
 **Tagesanalyse:**
 - Makroverteilung: Protein ~104g, Kohlenhydrate ~190g, Fett ~44g
-- Proteinzufuhr sehr gut (1.56g/kg Körpergewicht)
-- Hoher Zuckeranteil durch Bubble Tea (kann reduziert werden)
-- Geeignet für einen aktiven Tag mit Training
+- Proteinzufuhr sehr gut (1.56g/kg Körpergewicht) ✓
+- Hoher Zuckeranteil durch Bubble Tea (kann reduziert werden) ⚠️
+- 9.765 Schritte = aktiver Tag (nahe WHO-Empfehlung von 10.000) ✓
+- Kalorienüberschuss moderat - geeignet für langsamen Muskelaufbau
+- Bei Gewichtserhalt-Ziel: 200-300 kcal weniger empfohlen
 
 ---
 
