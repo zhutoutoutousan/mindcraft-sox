@@ -35,6 +35,53 @@ BMR = 1354 kcal/Tag
 
 ## Mahlzeiten Log / Meal Log
 
+### 2026-10-02 (Freitag)
+
+#### Mahlzeit 1 (Frühstück)
+Zeit: Vormittag (~10:00 Uhr)
+Bild: `/workspace/assets/01a0fc0f-7ad5-77b6-a7e0-0de4c8fabbe4.jpg`
+
+**Gericht:** Asiatische Fleischbällchen-Nudelsuppe (ähnlich vietnamesischer Pho oder chinesischer Nudelsuppe)
+
+**Komponenten:**
+- Fleischbällchen (Schwein/Rind): 6-7 Stück (~150g) → ca. 320 kcal
+  - Protein: ~22g
+  - Fett: ~24g
+  
+- Reisnudeln oder Eiernudeln (gekocht): ~120g → ca. 160 kcal
+  - Kohlenhydrate: ~35g
+  - Protein: ~5g
+  
+- Brühe (Hühner- oder Schweinebasis): ~350ml → ca. 50 kcal
+  - Kollagen, Mineralstoffe
+  
+- Grünes Blattgemüse (Bok Choy/Chinakohl): ~80g → ca. 15 kcal
+  - Vitamin A, K, C
+  - Ballaststoffe: ~2g
+  
+- Karottenstreifen: ~30g → ca. 10 kcal
+  - Beta-Carotin
+  
+- Frittierte Schalotten/Knoblauch (Topping): ~10g → ca. 60 kcal
+  - Fett: ~5g
+
+**Gesamtkalorien:** ca. 615 kcal
+
+**Makronährstoffe:**
+- Protein: ~27g
+- Kohlenhydrate: ~35g
+- Fett: ~29g
+
+**Nährwertanalyse:**
+- Ausgewogene Mahlzeit mit allen Makronährstoffen
+- Proteinreich durch Fleischbällchen
+- Moderate Kohlenhydrate durch Nudeln
+- Warme, sättigende Suppe - ideal für Frühstück
+- Gute Hydration durch Brühe
+- Vitamine und Mineralstoffe durch Gemüse
+
+---
+
 ### 2026-09-30 (Mittwoch)
 
 #### Mahlzeit 1 (Frühstück/Brunch)
@@ -181,6 +228,24 @@ Kalorien = 3.5 × 66.5 kg × 1.63 h ≈ 390 kcal
 - 9.765 Schritte = aktiver Tag (nahe WHO-Empfehlung von 10.000) ✓
 - Kalorienüberschuss moderat - geeignet für langsamen Muskelaufbau
 - Bei Gewichtserhalt-Ziel: 200-300 kcal weniger empfohlen
+
+### 2026-10-02
+**Kalorienzufuhr gesamt:** 615 kcal (bisher - nur Frühstück erfasst)
+  - Mahlzeit 1 (Frühstück): 615 kcal
+
+**Grundumsatz (BMR):** 1354 kcal
+**TDEE (geschätzt, mäßig aktiv):** 2099 kcal
+
+**Aktuelle Bilanz (unvollständig):**
+- Zufuhr bisher: 615 kcal
+- Tagesbedarf: 2099 kcal
+- **Noch zu verbrauchen: 1484 kcal** (weitere Mahlzeiten folgen)
+
+**Frühstücks-Analyse:**
+- Makroverteilung: Protein ~27g, Kohlenhydrate ~35g, Fett ~29g
+- Proteinreich und sättigend
+- Ausgewogene warme Mahlzeit
+- Guter Start in den Tag mit ~30% des Tagesbedarfs
 
 ---
 
