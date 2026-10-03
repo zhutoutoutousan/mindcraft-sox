@@ -22,3 +22,6 @@ V Session_2026_10_03_plastiktueten_verbot_toon kind=session date=2026-10-03 lang
 
 # ingest-session 2026-10-03T12:37:15Z 2026-10-03-punktevergabe-anfrage.toon lang=de
 V Session_2026_10_03_punktevergabe_anfrage_toon kind=session date=2026-10-03 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-03-punktevergabe-anfrage.toon.md
+
+# ingest-session 2026-10-03T12:47:18Z 2026-10-03-plastiktueten-v2.toon lang=de
+V Session_2026_10_03_plastiktueten_v2_toon kind=session date=2026-10-03 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-03-plastiktueten-v2.toon.md

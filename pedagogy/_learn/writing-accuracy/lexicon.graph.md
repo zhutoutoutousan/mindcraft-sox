@@ -57,3 +57,11 @@ V Sent_2026_10_03_punktevergabe_anfrage_toon_fix kind=sentence date=2026-10-03 l
 E Sent_2026_10_03_punktevergabe_anfrage_toon_fix FIXES Sent_2026_10_03_punktevergabe_anfrage_toon_raw
 E Sent_2026_10_03_punktevergabe_anfrage_toon_raw FROM_SESSION Session_2026_10_03_punktevergabe_anfrage_toon
 E Sent_2026_10_03_punktevergabe_anfrage_toon_fix FROM_SESSION Session_2026_10_03_punktevergabe_anfrage_toon
+
+# ingest-session 2026-10-03T12:47:18Z 2026-10-03-plastiktueten-v2.toon lang=de
+V Session_2026_10_03_plastiktueten_v2_toon kind=session date=2026-10-03 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-03-plastiktueten-v2.toon.md
+V Sent_2026_10_03_plastiktueten_v2_toon_raw kind=sentence date=2026-10-03 lang=de role=raw
+V Sent_2026_10_03_plastiktueten_v2_toon_fix kind=sentence date=2026-10-03 lang=de role=corrected
+E Sent_2026_10_03_plastiktueten_v2_toon_fix FIXES Sent_2026_10_03_plastiktueten_v2_toon_raw
+E Sent_2026_10_03_plastiktueten_v2_toon_raw FROM_SESSION Session_2026_10_03_plastiktueten_v2_toon
+E Sent_2026_10_03_plastiktueten_v2_toon_fix FROM_SESSION Session_2026_10_03_plastiktueten_v2_toon
