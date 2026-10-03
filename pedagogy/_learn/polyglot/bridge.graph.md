@@ -16,3 +16,6 @@ V Session_2026_10_03_artikel_teil_toon kind=session date=2026-10-03 lang=de body
 
 # ingest-session 2026-10-03T10:53:17Z 2026-10-03-handy-benutzung.toon lang=de
 V Session_2026_10_03_handy_benutzung_toon kind=session date=2026-10-03 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-03-handy-benutzung.toon.md
+
+# ingest-session 2026-10-03T12:34:06Z 2026-10-03-plastiktueten-verbot.toon lang=de
+V Session_2026_10_03_plastiktueten_verbot_toon kind=session date=2026-10-03 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-03-plastiktueten-verbot.toon.md
