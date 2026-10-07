@@ -28,4 +28,4 @@ primaryLang: de
 
 ## Notes
 
-Job: describe Netflix series Savage Beauty. Gap: English "these" plugged into DE slot for neuter demonstrative before "Werk".
+Gap: English "these" in DE slot for neuter demonstrative before "Werk".

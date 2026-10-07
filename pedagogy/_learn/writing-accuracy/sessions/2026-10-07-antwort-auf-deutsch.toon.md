@@ -29,4 +29,4 @@ primaryLang: de
 
 ## Notes
 
-User requested all subsequent answers in German. Slot error: masculine contraction „beim“ + Nominativ „deine“ instead of feminine Dativ after „bei“.
+Slot error: masculine contraction „beim“ + Nominativ „deine“ instead of feminine Dativ after „bei“.

@@ -31,3 +31,6 @@ V Session_2026_10_07_beschreib_dieses_werk_toon kind=session date=2026-10-07 lan
 
 # ingest-session 2026-10-07T14:21:55Z 2026-10-07-antwort-auf-deutsch.toon lang=de
 V Session_2026_10_07_antwort_auf_deutsch_toon kind=session date=2026-10-07 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-07-antwort-auf-deutsch.toon.md
+
+# ingest-session 2026-10-07T14:26:46Z 2026-10-07-pii-im-pr-vermeiden.toon lang=de
+V Session_2026_10_07_pii_im_pr_vermeiden_toon kind=session date=2026-10-07 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-07-pii-im-pr-vermeiden.toon.md
