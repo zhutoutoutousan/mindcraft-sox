@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Portfolio eines professionellen Fotografen - Kreative Fotografie für besondere Momente">
+    <title>Max Mustermann - Fotograf Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <a href="#home" class="logo">MM Photography</a>
+            <ul class="nav-menu">
+                <li><a href="#home" class="nav-link">Home</a></li>
+                <li><a href="#about" class="nav-link">Über mich</a></li>
+                <li><a href="#portfolio" class="nav-link">Portfolio</a></li>
+                <li><a href="#contact" class="nav-link">Kontakt</a></li>
+            </ul>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="hero-overlay"></div>
+        <div class="hero-content">
+            <h1 class="hero-title">Max Mustermann</h1>
+            <p class="hero-subtitle">Professioneller Fotograf</p>
+            <p class="hero-description">Ich fange die Schönheit des Moments ein</p>
+            <a href="#portfolio" class="btn btn-primary">Portfolio ansehen</a>
+        </div>
+        <div class="scroll-indicator">
+            <span>Scroll</span>
+            <div class="scroll-arrow"></div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Über mich</h2>
+                <div class="title-underline"></div>
+            </div>
+            <div class="about-content">
+                <div class="about-image">
+                    <img src="https://images.unsplash.com/photo-1554080353-a576cf803bda?w=600" alt="Max Mustermann" loading="lazy">
+                </div>
+                <div class="about-text">
+                    <h3>Leidenschaft für Fotografie</h3>
+                    <p>Seit über 10 Jahren halte ich besondere Momente fest und erzähle Geschichten durch meine Linse. Meine Spezialität liegt in der Portrait-, Hochzeits- und Landschaftsfotografie.</p>
+                    <p>Jedes Bild ist für mich mehr als nur ein Foto – es ist eine Emotion, eine Erinnerung, ein Kunstwerk. Mit einem Auge für Details und einem Gespür für den perfekten Moment schaffe ich zeitlose Bilder, die Sie immer wieder berühren werden.</p>
+                    <div class="about-stats">
+                        <div class="stat">
+                            <span class="stat-number">500+</span>
+                            <span class="stat-label">Projekte</span>
+                        </div>
+                        <div class="stat">
+                            <span class="stat-number">300+</span>
+                            <span class="stat-label">Hochzeiten</span>
+                        </div>
+                        <div class="stat">
+                            <span class="stat-number">10+</span>
+                            <span class="stat-label">Jahre Erfahrung</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Portfolio Section -->
+    <section id="portfolio" class="portfolio">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Portfolio</h2>
+                <div class="title-underline"></div>
+                <p class="section-description">Eine Auswahl meiner besten Arbeiten</p>
+            </div>
+            
+            <div class="portfolio-filters">
+                <button class="filter-btn active" data-filter="all">Alle</button>
+                <button class="filter-btn" data-filter="portrait">Portraits</button>
+                <button class="filter-btn" data-filter="wedding">Hochzeiten</button>
+                <button class="filter-btn" data-filter="landscape">Landschaften</button>
+                <button class="filter-btn" data-filter="events">Events</button>
+            </div>
+
+            <div class="portfolio-grid">
+                <div class="portfolio-item" data-category="portrait">
+                    <img src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=800" alt="Portrait 1" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <h3>Portrait Session</h3>
+                        <p>Studio Portrait</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="https://images.unsplash.com/photo-1519741497674-611481863552?w=800" alt="Wedding 1" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <h3>Traumhochzeit</h3>
+                        <p>Hochzeitsfotografie</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="landscape">
+                    <img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800" alt="Landscape 1" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <h3>Bergpanorama</h3>
+                        <p>Landschaftsfotografie</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="portrait">
+                    <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800" alt="Portrait 2" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <h3>Business Portrait</h3>
+                        <p>Corporate Fotografie</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="events">
+                    <img src="https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=800" alt="Event 1" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <h3>Event Fotografie</h3>
+                        <p>Firmenveranstaltung</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="wedding">
+                    <img src="https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=800" alt="Wedding 2" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <h3>Romantische Momente</h3>
+                        <p>Hochzeitsfotografie</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="landscape">
+                    <img src="https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=800" alt="Landscape 2" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <h3>Sonnenuntergang</h3>
+                        <p>Naturfotografie</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="portrait">
+                    <img src="https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?w=800" alt="Portrait 3" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <h3>Outdoor Portrait</h3>
+                        <p>Natürliches Licht</p>
+                    </div>
+                </div>
+                <div class="portfolio-item" data-category="events">
+                    <img src="https://images.unsplash.com/photo-1511578314322-379afb476865?w=800" alt="Event 2" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <h3>Konzert</h3>
+                        <p>Live Event</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section class="services">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Meine Leistungen</h2>
+                <div class="title-underline"></div>
+            </div>
+            <div class="services-grid">
+                <div class="service-card">
+                    <div class="service-icon">📸</div>
+                    <h3>Hochzeitsfotografie</h3>
+                    <p>Halte die schönsten Momente deines besonderen Tages für die Ewigkeit fest.</p>
+                </div>
+                <div class="service-card">
+                    <div class="service-icon">👤</div>
+                    <h3>Portraitfotografie</h3>
+                    <p>Professionelle Portraits für Business, Bewerbungen oder persönliche Erinnerungen.</p>
+                </div>
+                <div class="service-card">
+                    <div class="service-icon">🏢</div>
+                    <h3>Event Fotografie</h3>
+                    <p>Dokumentation von Firmenfeiern, Konzerten und besonderen Veranstaltungen.</p>
+                </div>
+                <div class="service-card">
+                    <div class="service-icon">🌄</div>
+                    <h3>Landschaftsfotografie</h3>
+                    <p>Kunstvolle Landschaftsaufnahmen für Ihr Zuhause oder Büro.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Kontakt</h2>
+                <div class="title-underline"></div>
+                <p class="section-description">Lassen Sie uns über Ihr nächstes Projekt sprechen</p>
+            </div>
+            <div class="contact-content">
+                <div class="contact-info">
+                    <div class="contact-item">
+                        <div class="contact-icon">📧</div>
+                        <div>
+                            <h4>Email</h4>
+                            <p>kontakt@maxmustermann-photo.de</p>
+                        </div>
+                    </div>
+                    <div class="contact-item">
+                        <div class="contact-icon">📱</div>
+                        <div>
+                            <h4>Telefon</h4>
+                            <p>+49 123 456 7890</p>
+                        </div>
+                    </div>
+                    <div class="contact-item">
+                        <div class="contact-icon">📍</div>
+                        <div>
+                            <h4>Standort</h4>
+                            <p>Berlin, Deutschland</p>
+                        </div>
+                    </div>
+                    <div class="social-links">
+                        <a href="#" class="social-link" aria-label="Instagram">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
+                                <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
+                                <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>
+                            </svg>
+                        </a>
+                        <a href="#" class="social-link" aria-label="Facebook">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path>
+                            </svg>
+                        </a>
+                        <a href="#" class="social-link" aria-label="LinkedIn">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
+                                <rect x="2" y="9" width="4" height="12"></rect>
+                                <circle cx="4" cy="4" r="2"></circle>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+                <form class="contact-form" id="contactForm">
+                    <div class="form-group">
+                        <input type="text" id="name" name="name" placeholder="Ihr Name" required>
+                    </div>
+                    <div class="form-group">
+                        <input type="email" id="email" name="email" placeholder="Ihre Email" required>
+                    </div>
+                    <div class="form-group">
+                        <input type="text" id="subject" name="subject" placeholder="Betreff" required>
+                    </div>
+                    <div class="form-group">
+                        <textarea id="message" name="message" rows="5" placeholder="Ihre Nachricht" required></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Nachricht senden</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2026 Max Mustermann Photography. Alle Rechte vorbehalten.</p>
+            <p>Erstellt mit ♥ für Fotografie</p>
+        </div>
+    </footer>
+
+    <!-- Lightbox -->
+    <div class="lightbox" id="lightbox">
+        <span class="lightbox-close">&times;</span>
+        <span class="lightbox-prev">&#10094;</span>
+        <span class="lightbox-next">&#10095;</span>
+        <img class="lightbox-content" id="lightbox-img" alt="Portfolio Image">
+        <div class="lightbox-caption"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
