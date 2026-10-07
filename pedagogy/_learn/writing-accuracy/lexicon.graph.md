@@ -81,3 +81,11 @@ V Sent_2026_10_07_404_fehler_toon_fix kind=sentence date=unknown lang=de role=co
 E Sent_2026_10_07_404_fehler_toon_fix FIXES Sent_2026_10_07_404_fehler_toon_raw
 E Sent_2026_10_07_404_fehler_toon_raw FROM_SESSION Session_2026_10_07_404_fehler_toon
 E Sent_2026_10_07_404_fehler_toon_fix FROM_SESSION Session_2026_10_07_404_fehler_toon
+
+# ingest-session 2026-10-07T16:04:29Z 2026-10-07-problem-wieder-da.toon lang=de
+V Session_2026_10_07_problem_wieder_da_toon kind=session date=unknown lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-07-problem-wieder-da.toon.md
+V Sent_2026_10_07_problem_wieder_da_toon_raw kind=sentence date=unknown lang=de role=raw
+V Sent_2026_10_07_problem_wieder_da_toon_fix kind=sentence date=unknown lang=de role=corrected
+E Sent_2026_10_07_problem_wieder_da_toon_fix FIXES Sent_2026_10_07_problem_wieder_da_toon_raw
+E Sent_2026_10_07_problem_wieder_da_toon_raw FROM_SESSION Session_2026_10_07_problem_wieder_da_toon
+E Sent_2026_10_07_problem_wieder_da_toon_fix FROM_SESSION Session_2026_10_07_problem_wieder_da_toon

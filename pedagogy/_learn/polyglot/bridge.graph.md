@@ -31,3 +31,6 @@ V Session_2026_10_07_handy_github_pages_toon kind=session date=unknown lang=de b
 
 # ingest-session 2026-10-07T14:40:15Z 2026-10-07-404-fehler.toon lang=de
 V Session_2026_10_07_404_fehler_toon kind=session date=unknown lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-07-404-fehler.toon.md
+
+# ingest-session 2026-10-07T16:04:29Z 2026-10-07-problem-wieder-da.toon lang=de
+V Session_2026_10_07_problem_wieder_da_toon kind=session date=unknown lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-07-problem-wieder-da.toon.md
