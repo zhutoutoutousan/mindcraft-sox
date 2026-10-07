@@ -65,3 +65,19 @@ V Sent_2026_10_03_plastiktueten_v2_toon_fix kind=sentence date=2026-10-03 lang=d
 E Sent_2026_10_03_plastiktueten_v2_toon_fix FIXES Sent_2026_10_03_plastiktueten_v2_toon_raw
 E Sent_2026_10_03_plastiktueten_v2_toon_raw FROM_SESSION Session_2026_10_03_plastiktueten_v2_toon
 E Sent_2026_10_03_plastiktueten_v2_toon_fix FROM_SESSION Session_2026_10_03_plastiktueten_v2_toon
+
+# ingest-session 2026-10-07T14:20:08Z 2026-10-07-beschreib-dieses-werk.toon lang=de
+V Session_2026_10_07_beschreib_dieses_werk_toon kind=session date=2026-10-07 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-07-beschreib-dieses-werk.toon.md
+V Sent_2026_10_07_beschreib_dieses_werk_toon_raw kind=sentence date=2026-10-07 lang=de role=raw
+V Sent_2026_10_07_beschreib_dieses_werk_toon_fix kind=sentence date=2026-10-07 lang=de role=corrected
+E Sent_2026_10_07_beschreib_dieses_werk_toon_fix FIXES Sent_2026_10_07_beschreib_dieses_werk_toon_raw
+E Sent_2026_10_07_beschreib_dieses_werk_toon_raw FROM_SESSION Session_2026_10_07_beschreib_dieses_werk_toon
+E Sent_2026_10_07_beschreib_dieses_werk_toon_fix FROM_SESSION Session_2026_10_07_beschreib_dieses_werk_toon
+
+# ingest-session 2026-10-07T14:21:55Z 2026-10-07-antwort-auf-deutsch.toon lang=de
+V Session_2026_10_07_antwort_auf_deutsch_toon kind=session date=2026-10-07 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-07-antwort-auf-deutsch.toon.md
+V Sent_2026_10_07_antwort_auf_deutsch_toon_raw kind=sentence date=2026-10-07 lang=de role=raw
+V Sent_2026_10_07_antwort_auf_deutsch_toon_fix kind=sentence date=2026-10-07 lang=de role=corrected
+E Sent_2026_10_07_antwort_auf_deutsch_toon_fix FIXES Sent_2026_10_07_antwort_auf_deutsch_toon_raw
+E Sent_2026_10_07_antwort_auf_deutsch_toon_raw FROM_SESSION Session_2026_10_07_antwort_auf_deutsch_toon
+E Sent_2026_10_07_antwort_auf_deutsch_toon_fix FROM_SESSION Session_2026_10_07_antwort_auf_deutsch_toon
