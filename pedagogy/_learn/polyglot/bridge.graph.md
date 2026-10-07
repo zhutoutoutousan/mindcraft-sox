@@ -25,3 +25,6 @@ V Session_2026_10_03_punktevergabe_anfrage_toon kind=session date=2026-10-03 lan
 
 # ingest-session 2026-10-03T12:47:18Z 2026-10-03-plastiktueten-v2.toon lang=de
 V Session_2026_10_03_plastiktueten_v2_toon kind=session date=2026-10-03 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-03-plastiktueten-v2.toon.md
+
+# ingest-session 2026-10-07T14:35:37Z 2026-10-07-handy-github-pages.toon lang=de
+V Session_2026_10_07_handy_github_pages_toon kind=session date=unknown lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-07-handy-github-pages.toon.md
