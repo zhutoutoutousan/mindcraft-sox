@@ -28,3 +28,6 @@ V Session_2026_10_03_plastiktueten_v2_toon kind=session date=2026-10-03 lang=de 
 
 # ingest-session 2026-10-07T14:35:37Z 2026-10-07-handy-github-pages.toon lang=de
 V Session_2026_10_07_handy_github_pages_toon kind=session date=unknown lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-07-handy-github-pages.toon.md
+
+# ingest-session 2026-10-07T14:40:15Z 2026-10-07-404-fehler.toon lang=de
+V Session_2026_10_07_404_fehler_toon kind=session date=unknown lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-07-404-fehler.toon.md

@@ -73,3 +73,11 @@ V Sent_2026_10_07_handy_github_pages_toon_fix kind=sentence date=unknown lang=de
 E Sent_2026_10_07_handy_github_pages_toon_fix FIXES Sent_2026_10_07_handy_github_pages_toon_raw
 E Sent_2026_10_07_handy_github_pages_toon_raw FROM_SESSION Session_2026_10_07_handy_github_pages_toon
 E Sent_2026_10_07_handy_github_pages_toon_fix FROM_SESSION Session_2026_10_07_handy_github_pages_toon
+
+# ingest-session 2026-10-07T14:40:15Z 2026-10-07-404-fehler.toon lang=de
+V Session_2026_10_07_404_fehler_toon kind=session date=unknown lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-07-404-fehler.toon.md
+V Sent_2026_10_07_404_fehler_toon_raw kind=sentence date=unknown lang=de role=raw
+V Sent_2026_10_07_404_fehler_toon_fix kind=sentence date=unknown lang=de role=corrected
+E Sent_2026_10_07_404_fehler_toon_fix FIXES Sent_2026_10_07_404_fehler_toon_raw
+E Sent_2026_10_07_404_fehler_toon_raw FROM_SESSION Session_2026_10_07_404_fehler_toon
+E Sent_2026_10_07_404_fehler_toon_fix FROM_SESSION Session_2026_10_07_404_fehler_toon
