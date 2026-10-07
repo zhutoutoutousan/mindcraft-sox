@@ -26,11 +26,11 @@ V Session_2026_10_03_punktevergabe_anfrage_toon kind=session date=2026-10-03 lan
 # ingest-session 2026-10-03T12:47:18Z 2026-10-03-plastiktueten-v2.toon lang=de
 V Session_2026_10_03_plastiktueten_v2_toon kind=session date=2026-10-03 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-03-plastiktueten-v2.toon.md
 
-# ingest-session 2026-10-07T14:35:37Z 2026-10-07-handy-github-pages.toon lang=de
-V Session_2026_10_07_handy_github_pages_toon kind=session date=unknown lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-07-handy-github-pages.toon.md
+# ingest-session 2026-10-07T14:20:08Z 2026-10-07-beschreib-dieses-werk.toon lang=de
+V Session_2026_10_07_beschreib_dieses_werk_toon kind=session date=2026-10-07 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-07-beschreib-dieses-werk.toon.md
 
-# ingest-session 2026-10-07T14:40:15Z 2026-10-07-404-fehler.toon lang=de
-V Session_2026_10_07_404_fehler_toon kind=session date=unknown lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-07-404-fehler.toon.md
+# ingest-session 2026-10-07T14:21:55Z 2026-10-07-antwort-auf-deutsch.toon lang=de
+V Session_2026_10_07_antwort_auf_deutsch_toon kind=session date=2026-10-07 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-07-antwort-auf-deutsch.toon.md
 
-# ingest-session 2026-10-07T16:04:29Z 2026-10-07-problem-wieder-da.toon lang=de
-V Session_2026_10_07_problem_wieder_da_toon kind=session date=unknown lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-07-problem-wieder-da.toon.md
+# ingest-session 2026-10-07T14:26:46Z 2026-10-07-pii-im-pr-vermeiden.toon lang=de
+V Session_2026_10_07_pii_im_pr_vermeiden_toon kind=session date=2026-10-07 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-07-pii-im-pr-vermeiden.toon.md
