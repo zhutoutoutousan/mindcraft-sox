@@ -35,6 +35,47 @@ BMR = 1354 kcal/Tag
 
 ## Mahlzeiten Log / Meal Log
 
+### 2026-10-09 (Freitag)
+
+#### Mahlzeit 1 (Frühstück)
+Zeit: Vormittag (~09:05 Uhr)
+Bild: `/home/ubuntu/.cursor/projects/workspace/assets/0A39AA4F-4093-4FA0-8B25-52129ED1EEE6_L0_001.jpg`
+
+**Gericht:** Brötchen mit Aufschnitt (Schinken/Corned Beef)
+
+**Komponenten:**
+- Brötchen (Weizenbrötchen): 1 Stück (~60g) → ca. 160 kcal
+  - Kohlenhydrate: ~32g
+  - Protein: ~5g
+  - Fett: ~2g
+  
+- Aufschnitt Schinken/Corned Beef (gekocht): ~80-100g → ca. 180 kcal
+  - Protein: ~18g
+  - Fett: ~12g
+  
+- Butter/Margarine (optional auf Brötchen): ~5g → ca. 35 kcal
+  - Fett: ~4g
+
+**Gesamtkalorien:** ca. 375 kcal
+
+**Makronährstoffe:**
+- Protein: ~23g
+- Kohlenhydrate: ~32g
+- Fett: ~18g
+
+**Nährwertanalyse:**
+- Proteinreich durch Aufschnitt
+- Moderate Kohlenhydrate durch Brötchen
+- Herzhaftes, sättigendes Frühstück
+- Klassisches deutsches Frühstück
+
+**Aktuelle Bilanz (unvollständig):**
+- Zufuhr bisher: 375 kcal
+- Tagesbedarf (TDEE, mäßig aktiv): 2099 kcal
+- **Noch zu verbrauchen: 1724 kcal** (weitere Mahlzeiten folgen)
+
+---
+
 ### 2026-10-02 (Freitag)
 
 #### Mahlzeit 1 (Frühstück)

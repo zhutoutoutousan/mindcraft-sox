@@ -34,3 +34,6 @@ V Session_2026_10_07_antwort_auf_deutsch_toon kind=session date=2026-10-07 lang=
 
 # ingest-session 2026-10-07T14:26:46Z 2026-10-07-pii-im-pr-vermeiden.toon lang=de
 V Session_2026_10_07_pii_im_pr_vermeiden_toon kind=session date=2026-10-07 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-07-pii-im-pr-vermeiden.toon.md
+
+# ingest-session 2026-10-09T09:07:59Z 2026-10-09-kalkulat-berechne.toon lang=de
+V Session_2026_10_09_kalkulat_berechne_toon kind=session date=2026-10-09 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-09-kalkulat-berechne.toon.md
