@@ -7,7 +7,7 @@ version: 1.0
 Tägliche Kalorienzufuhr und -verbrauch dokumentieren und analysieren.
 
 ## Profil / Profile
-- **Körpergewicht:** 66.5 kg
+- **Körpergewicht:** 66.05 kg (zuletzt: 09.10.2026)
 - **Körpergröße:** 168 cm
 - **Alter:** 40 Jahre
 - **Geschlecht:** weiblich
@@ -36,6 +36,25 @@ BMR = 1354 kcal/Tag
 ## Mahlzeiten Log / Meal Log
 
 ### 2026-10-09 (Freitag)
+
+#### Körperdaten / Body Metrics
+Zeit: Morgen vor dem Frühstück (~11:36 Uhr)
+Bild: `/workspace/assets/1B049126-93A9-4B80-A4C2-75A851FB0DA0_L0_001.jpg`
+
+**Messwerte:**
+- **Körpergewicht:** 66.05 kg (↓0.45 kg seit 02.10.2026)
+- **BMI:** 23.4 (偏高 - leicht erhöht)
+- **Körperfettanteil:** 32.9% (略高 - etwas erhöht)
+
+**Analyse:**
+- Gewichtsabnahme von 0.45 kg in 7 Tagen = durchschnittlich ~65g/Tag
+- BMI im gesunden Normalbereich (18.5-24.9), am oberen Ende
+- Körperfettanteil für Frauen: 32.9% liegt im "akzeptabel" Bereich (25-31% = Durchschnitt, 32%+ = erhöht)
+- App-Empfehlung: Heute leichter essen, mehr Bewegung
+
+**Health Archive Empfehlungen:**
+- BMI 路高，今天清淡一点? (BMI leicht erhöht, heute leichter essen?)
+- 体脂略高，活动一下会更好 (Körperfett etwas erhöht, Bewegung wäre besser)
 
 #### Mahlzeit 1 (Frühstück)
 Zeit: Vormittag (~09:05 Uhr)
