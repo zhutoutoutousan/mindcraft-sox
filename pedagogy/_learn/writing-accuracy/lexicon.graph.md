@@ -97,3 +97,11 @@ V Sent_2026_10_09_morning_health_data_toon_fix kind=sentence date=2026-10-09 lan
 E Sent_2026_10_09_morning_health_data_toon_fix FIXES Sent_2026_10_09_morning_health_data_toon_raw
 E Sent_2026_10_09_morning_health_data_toon_raw FROM_SESSION Session_2026_10_09_morning_health_data_toon
 E Sent_2026_10_09_morning_health_data_toon_fix FROM_SESSION Session_2026_10_09_morning_health_data_toon
+
+# ingest-session 2026-10-09T13:05:45Z 2026-10-09-girlfriend-chat-reminder.toon lang=de
+V Session_2026_10_09_girlfriend_chat_reminder_toon kind=session date=2026-10-09 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-09-girlfriend-chat-reminder.toon.md
+V Sent_2026_10_09_girlfriend_chat_reminder_toon_raw kind=sentence date=2026-10-09 lang=de role=raw
+V Sent_2026_10_09_girlfriend_chat_reminder_toon_fix kind=sentence date=2026-10-09 lang=de role=corrected
+E Sent_2026_10_09_girlfriend_chat_reminder_toon_fix FIXES Sent_2026_10_09_girlfriend_chat_reminder_toon_raw
+E Sent_2026_10_09_girlfriend_chat_reminder_toon_raw FROM_SESSION Session_2026_10_09_girlfriend_chat_reminder_toon
+E Sent_2026_10_09_girlfriend_chat_reminder_toon_fix FROM_SESSION Session_2026_10_09_girlfriend_chat_reminder_toon

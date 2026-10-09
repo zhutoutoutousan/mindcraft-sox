@@ -37,3 +37,6 @@ V Session_2026_10_07_pii_im_pr_vermeiden_toon kind=session date=2026-10-07 lang=
 
 # ingest-session 2026-10-09T09:39:32Z 2026-10-09-morning-health-data.toon lang=de
 V Session_2026_10_09_morning_health_data_toon kind=session date=2026-10-09 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-09-morning-health-data.toon.md
+
+# ingest-session 2026-10-09T13:05:45Z 2026-10-09-girlfriend-chat-reminder.toon lang=de
+V Session_2026_10_09_girlfriend_chat_reminder_toon kind=session date=2026-10-09 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-09-girlfriend-chat-reminder.toon.md
