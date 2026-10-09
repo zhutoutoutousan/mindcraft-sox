@@ -99,6 +99,89 @@ Bild: `/home/ubuntu/.cursor/projects/workspace/assets/0A39AA4F-4093-4FA0-8B25-52
 - Tagesbedarf (TDEE, mäßig aktiv): 2099 kcal
 - **Noch zu verbrauchen: 1614 kcal** (weitere Mahlzeiten folgen)
 
+#### Mahlzeit 2 (Abendessen)
+Zeit: Abend (~17:22 Uhr)
+Bilder: `/workspace/assets/39101AC0-0889-4E45-BD98-15BF2B7DF156_L0_001.jpg`, `/workspace/assets/C6C8CE6B-2664-4E78-B352-BBD4FE5AC448_L0_001.jpg`
+
+**Gericht:** Gemischte Gemüse-Bowl mit paniertem Fleisch
+
+**Komponenten:**
+
+**1. Paniertes Fleisch (Schnitzel/Hähnchen):**
+- Panierte Fleischstücke (vermutlich Hähnchen): ~150g → ca. 350 kcal
+  - Protein: ~30g
+  - Kohlenhydrate: ~20g (Panade)
+  - Fett: ~15g
+
+**2. Gemüse (gebraten/gebacken):**
+- Blumenkohl (gebraten): ~100g → ca. 50 kcal
+  - Protein: ~3g
+  - Kohlenhydrate: ~6g
+- Mehrfarbige Karotten (gelb, orange, lila): ~80g → ca. 30 kcal
+  - Beta-Carotin, Ballaststoffe: ~3g
+- Zucchini (gebraten): ~60g → ca. 20 kcal
+  - Vitamin C, Ballaststoffe
+- Kartoffeln/Gnocchi (gebraten): ~100g → ca. 150 kcal
+  - Kohlenhydrate: ~30g
+  - Protein: ~3g
+
+**3. Öl zum Braten:**
+- Öl (zum Braten): ~10g → ca. 90 kcal
+  - Fett: ~10g
+
+**4. Parmesan/Gewürze:**
+- Parmesan (gerieben): ~10g → ca. 40 kcal
+  - Protein: ~4g
+  - Fett: ~3g
+
+**Bowl Gesamt:** ca. 730 kcal
+
+**5. YoPRO Protein-Drink (Mango):**
+- Protein-Drink: 1 Flasche → ca. 80-100 kcal (geschätzt aus 0% Fett, 0% Zucker)
+  - Protein: 23g
+  - Kohlenhydrate: ~10g (geschätzt)
+  - Fett: 0g
+  - Zusatz: Magnesium, Vitamin B9
+
+**Protein-Drink Gesamt:** ca. 90 kcal
+
+**Gesamtkalorien Mahlzeit 2:** ca. 820 kcal
+
+**Makronährstoffe:**
+- Protein: ~63g (sehr hoch! 30g Fleisch + 23g Drink)
+- Kohlenhydrate: ~66g
+- Fett: ~28g
+
+**Nährwertanalyse:**
+- Extrem proteinreich (63g in einer Mahlzeit!)
+- Gute Gemüsevielfalt (Karotten, Blumenkohl, Zucchini)
+- Ausgewogene Makronährstoffe
+- Gesunde bunte Karotten (Antioxidantien)
+- Protein-Drink liefert zusätzlich Magnesium + B9
+
+---
+
+### Tagesbilanz 2026-10-09
+
+**Kalorienzufuhr gesamt:** 1305 kcal
+  - Mahlzeit 1 (Frühstück): 485 kcal
+  - Mahlzeit 2 (Abendessen): 820 kcal
+
+**Grundumsatz (BMR):** 1354 kcal
+**TDEE (geschätzt, mäßig aktiv):** 2099 kcal
+
+**Netto-Bilanz:**
+- Zufuhr: 1305 kcal
+- Tagesbedarf (TDEE): 2099 kcal
+- **Defizit: -794 kcal** (deutliches Kaloriendefizit)
+
+**Tagesanalyse:**
+- Makroverteilung: Protein ~92g (1.39g/kg Körpergewicht) ✓✓✓
+- Proteinzufuhr hervorragend! Weit über Empfehlung
+- Kaloriendefizit von ~800 kcal → geeignet für Gewichtsreduktion (App-Empfehlung: "leichter essen")
+- Gute Gemüsevielfalt beim Abendessen
+- Sehr hohe Proteinzufuhr schützt Muskulatur bei Kaloriendefizit
+
 ---
 
 ### 2026-10-02 (Freitag)
