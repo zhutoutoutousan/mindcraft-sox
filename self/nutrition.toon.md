@@ -56,23 +56,29 @@ Bild: `/home/ubuntu/.cursor/projects/workspace/assets/0A39AA4F-4093-4FA0-8B25-52
 - Butter/Margarine (optional auf Brötchen): ~5g → ca. 35 kcal
   - Fett: ~4g
 
-**Gesamtkalorien:** ca. 375 kcal
+- Latte Macchiato (kleine Flasche): ~250ml → ca. 110 kcal
+  - Protein: ~6g
+  - Kohlenhydrate: ~13g
+  - Fett: ~3g
+
+**Gesamtkalorien:** ca. 485 kcal
 
 **Makronährstoffe:**
-- Protein: ~23g
-- Kohlenhydrate: ~32g
-- Fett: ~18g
+- Protein: ~29g
+- Kohlenhydrate: ~45g
+- Fett: ~21g
 
 **Nährwertanalyse:**
 - Proteinreich durch Aufschnitt
 - Moderate Kohlenhydrate durch Brötchen
 - Herzhaftes, sättigendes Frühstück
 - Klassisches deutsches Frühstück
+- Zusätzliche Kalorien und Protein durch Milchgetränk
 
 **Aktuelle Bilanz (unvollständig):**
-- Zufuhr bisher: 375 kcal
+- Zufuhr bisher: 485 kcal
 - Tagesbedarf (TDEE, mäßig aktiv): 2099 kcal
-- **Noch zu verbrauchen: 1724 kcal** (weitere Mahlzeiten folgen)
+- **Noch zu verbrauchen: 1614 kcal** (weitere Mahlzeiten folgen)
 
 ---
 
