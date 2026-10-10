@@ -88,6 +88,82 @@ Bild: `/workspace/assets/01a1254c-2aee-7559-8ceb-247b6a6013e1.jpg`
 - Tagesbedarf (TDEE, mäßig aktiv): 2099 kcal
 - **Noch zu verbrauchen: 1369 kcal** (weitere Mahlzeiten folgen)
 
+#### Mahlzeit 2 (Abendessen)
+Zeit: Nachmittag (~15:36 Uhr)
+Bilder: `/workspace/assets/166DC9DA-347A-4675-88CA-8734CE995532_L0_001.jpg`, `/workspace/assets/282282C3-56A5-4812-AFE2-29B6920F5EA0_L0_001.jpg`, `/workspace/assets/F17AFD85-A7A1-488D-9D50-31C42B181360_L0_001.jpg`, `/workspace/assets/10A66355-122A-49BD-ABE2-BD7001C0DC40_L0_001.jpg`
+
+**Gericht:** Hühner-Frikassee mit Brötchen
+
+**Komponenten:**
+
+**1. EDEKA "Gut & Günstig" Hühner-Frikassee:**
+- Hühner-Frikassee (1 Packung, 450g) → ca. 490 kcal
+  - Mit 20% Hühnerfleisch
+  - In cremiger Sauce
+  - Gemüse: Champignons, Erbsen, Karotten, Spargel
+  - Protein: ~31.5g
+  - Kohlenhydrate: ~20g
+  - Fett: ~15g
+
+**Nährwerte pro 100g (laut Verpackung):**
+- Energie: 109 kcal / 456 kJ
+- Eiweiß: 7g
+- Kohlenhydrate: 4.5g
+- Fett: 3.3g
+- Salz: 1.0g
+
+**2. Brötchen:**
+- Weizenbrötchen (halb): ~40g → ca. 105 kcal
+  - Kohlenhydrate: ~21g
+  - Protein: ~3.5g
+  - Fett: ~1.5g
+
+**Gesamtkalorien Mahlzeit 2:** ca. 595 kcal
+
+**Makronährstoffe:**
+- Protein: ~35g (sehr gut!)
+- Kohlenhydrate: ~41g
+- Fett: ~16.5g
+
+**Nährwertanalyse:**
+- Proteinreich durch Hühner-Frikassee (35g)
+- Fettarm im Vergleich zu Leberkäse-Frühstück
+- Fertiggericht, aber mit echtem Hühnerfleisch (20%)
+- Gute Gemüsevielfalt (Pilze, Erbsen, Karotten, Spargel)
+- Klassisches deutsches Frikassee
+- Praktisch und schnell zubereitet
+
+---
+
+### Tagesbilanz 2026-10-10
+
+**Kalorienzufuhr gesamt:** 1325 kcal
+  - Mahlzeit 1 (Frühstück): 730 kcal
+  - Mahlzeit 2 (Abendessen): 595 kcal
+
+**Grundumsatz (BMR):** 1354 kcal
+**TDEE (geschätzt, mäßig aktiv):** 2099 kcal
+
+**Netto-Bilanz:**
+- Zufuhr: 1325 kcal
+- Tagesbedarf (TDEE): 2099 kcal
+- **Defizit: -774 kcal** (deutliches Kaloriendefizit)
+
+**Tagesanalyse:**
+- Makroverteilung: Protein ~69g (1.04g/kg Körpergewicht) ✓✓
+- Proteinzufuhr sehr gut (über Empfehlung)
+- Kaloriendefizit von ~774 kcal → gut für Gewichtsreduktion
+- Fettanteil moderat (heute niedriger als gestern)
+- Ausgewogen: Herzhaftes Frühstück + leichtes Abendessen
+
+**Vergleich zu gestern (09.10.):**
+| | 09.10. | 10.10. | Änderung |
+|---|---|---|---|
+| Kalorien | 1305 | 1325 | +20 kcal |
+| Protein | 92g | 69g | -23g |
+| Fett | 72g | 60.5g | -11.5g |
+| Defizit | -794 | -774 | weniger Defizit |
+
 ---
 
 ### 2026-10-09 (Freitag)
