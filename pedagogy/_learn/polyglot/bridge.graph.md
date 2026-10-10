@@ -46,3 +46,6 @@ V Session_2026_10_09_communication_channel_request kind=session date=2026-10-09 
 
 # ingest-session 2026-10-09T17:24:11Z 2026-10-09-dinner-documentation.toon lang=de
 V Session_2026_10_09_dinner_documentation_toon kind=session date=2026-10-09 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-09-dinner-documentation.toon.md
+
+# ingest-session 2026-10-10T10:13:54Z 2026-10-10-breakfast-documentation.toon lang=de
+V Session_2026_10_10_breakfast_documentation_toon kind=session date=2026-10-10 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-10-breakfast-documentation.toon.md

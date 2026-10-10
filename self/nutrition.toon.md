@@ -35,6 +35,61 @@ BMR = 1354 kcal/Tag
 
 ## Mahlzeiten Log / Meal Log
 
+### 2026-10-10 (Samstag)
+
+#### Mahlzeit 1 (Frühstück)
+Zeit: Vormittag (~10:12 Uhr)
+Bild: `/workspace/assets/01a1254c-2aee-7559-8ceb-247b6a6013e1.jpg`
+
+**Gericht:** Leberkäse-Brötchen mit Cappuccino
+
+**Komponenten:**
+
+**1. Brötchen mit Leberkäse:**
+- Brötchen (Weizenbrötchen, groß): 1 Stück (~80g) → ca. 210 kcal
+  - Kohlenhydrate: ~42g
+  - Protein: ~7g
+  - Fett: ~3g
+
+- Leberkäse/Fleischkäse (mit Paprika): ~120-150g (sehr dicke Scheibe!) → ca. 400 kcal
+  - Protein: ~20g
+  - Fett: ~35g
+  - Note: Leberkäse ist sehr fettreich
+
+**Brötchen Gesamt:** ca. 610 kcal
+
+**2. Cappuccino (groß):**
+- Cappuccino: ~300ml → ca. 120 kcal
+  - Milch (Vollmilch): ~200ml → ca. 120 kcal
+  - Espresso: ~50ml → ca. 5 kcal
+  - Protein: ~7g
+  - Kohlenhydrate: ~10g (Milchzucker)
+  - Fett: ~6g
+
+**Cappuccino Gesamt:** ca. 120 kcal
+
+**Gesamtkalorien Mahlzeit 1:** ca. 730 kcal
+
+**Makronährstoffe:**
+- Protein: ~34g
+- Kohlenhydrate: ~52g
+- Fett: ~44g
+
+**Nährwertanalyse:**
+- Sehr sättigendes, herzhaftes Frühstück
+- Proteinreich durch dicke Leberkäse-Scheibe
+- Hoher Fettanteil (Leberkäse ist sehr fetthaltig)
+- Klassisches bayerisches/süddeutsches Frühstück
+- Cappuccino liefert zusätzlich Protein und Calcium
+- Halloween-Servietten 🎃 (festliche Atmosphäre)
+
+**Aktuelle Bilanz (unvollständig):**
+- Zufuhr bisher: 730 kcal
+- Tagesbedarf (TDEE, mäßig aktiv): 2099 kcal
+- **Noch zu verbrauchen: 1369 kcal** (weitere Mahlzeiten folgen)
+
+---
+
 ### 2026-10-09 (Freitag)
 
 #### Körperdaten / Body Metrics
