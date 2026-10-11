@@ -342,35 +342,71 @@ Bild: `/workspace/assets/22CC35D0-CCAC-4CD0-BFC8-D7C11FD8677F_L0_001.jpg`
 - Leichte Mahlzeit, nicht zu schwer
 - Im Restaurant "Gärten der Welt" oder in der Nähe gegessen
 
+#### Snack 2 (Spätabend zu Hause)
+Zeit: Spätabend (~17:33 Uhr, nach Heimkehr)
+Bilder: `/workspace/assets/01a12c13-c031-7092-a6de-8fab481eed17.jpg`, `/workspace/assets/01a12c13-c093-7e0e-af75-431bb4a18e04.jpg`
+
+**Gericht:** Marzipankartoffeln (Marzipan Potatoes)
+
+**Komponenten:**
+
+**1. Marzipankartoffeln (Niederegger):**
+- Packung: 250g gesamt (10-12 Stück)
+- **Gegessen: ~8 Stück** → ca. **180g** → ca. **810 kcal**
+  - **Hauptzutaten:** Mandeln 57%, Zucker, Invertzucker, Alkohol, Kakao
+  - Protein: ~12g (aus Mandeln)
+  - Kohlenhydrate: ~120g (Zucker!)
+  - Fett: ~35g (Mandelöl)
+  - **Sehr energiedicht!**
+
+**Gesamtkalorien Snack 2:** ca. 810 kcal
+
+**Makronährstoffe:**
+- Protein: ~12g
+- Kohlenhydrate: ~120g (hoher Zuckergehalt!)
+- Fett: ~35g
+
+**Nährwertanalyse:**
+- **Sehr kalorienreich** für kleine Menge
+- Hoher Zucker- und Fettgehalt (typisch für Marzipan)
+- Marzipan = 57% Mandeln (gesunde Fette, aber energiedicht)
+- Süßer Snack nach dem Ausflug
+- Kakao-Überzug für "Kartoffel"-Optik
+- **810 kcal = fast so viel wie eine Hauptmahlzeit!**
+
 ---
 
-### Tagesbilanz 2026-10-11
+### Tagesbilanz 2026-10-11 (REVIDIERT)
 
-**Kalorienzufuhr gesamt:** 1071 kcal
+**Kalorienzufuhr gesamt:** 1881 kcal
   - Mahlzeit 1 (Brunch): 436 kcal
   - Snack 1 (Kaffee + 20 Hühnerherzen): 355 kcal
   - Mahlzeit 2 (5 Dumplings): 280 kcal
+  - Snack 2 (8 Marzipankartoffeln): 810 kcal
 
 **Grundumsatz (BMR):** 1354 kcal
-**TDEE (geschätzt, mäßig aktiv):** 2099 kcal
+**TDEE (geschätzt, sehr aktiv heute):** 2336 kcal (Faktor 1.725 wegen langem Ausflug)
 
 **Netto-Bilanz:**
-- Zufuhr: 1071 kcal
-- Tagesbedarf (TDEE): 2099 kcal
-- **Defizit: -1028 kcal** (sehr großes Kaloriendefizit!)
+- Zufuhr: 1881 kcal
+- Tagesbedarf (TDEE, sehr aktiv): 2336 kcal
+- **Defizit: -455 kcal** (moderates Kaloriendefizit)
 
-**Tagesanalyse:**
-- Makroverteilung: Protein ~93g (1.39g/kg Körpergewicht) ✓✓✓
-- Proteinzufuhr **HERVORRAGEND** (hauptsächlich durch 20 Hühnerherzen!)
-- **Sehr großes Kaloriendefizit** von ~1028 kcal
-- Viel Aktivität (Ausflug, Spazieren im Garten, ~4-5 Stunden unterwegs)
-- Eventuell noch eine Mahlzeit/Snack am Abend nötig?
+**Tagesanalyse (REVIDIERT):**
+- Makroverteilung: Protein ~105g (1.57g/kg Körpergewicht) ✓✓✓
+- Proteinzufuhr **HERVORRAGEND**
+- **Moderates Kaloriendefizit** von ~455 kcal trotz Marzipan
+- Kohlenhydrate: ~190g (hauptsächlich aus Marzipan = Zucker)
+- Fett: ~73g (Mandeln, Hühnerherzen)
+- Viel Aktivität heute (4-5 Stunden Ausflug + Gehen)
+- **Marzipan hat das große Defizit ausgeglichen** → jetzt im gesunden Bereich
 
 **Empfehlung:**
-- Noch ~1000 kcal unter Bedarf heute
-- Nach langem Ausflug: eventuell noch ein Snack/Abendessen zu Hause?
-- Protein ist perfekt, aber Gesamtkalorien sehr niedrig
-- Kein Problem für einen Tag, aber nicht langfristig
+- Bilanz ist jetzt gut ausgeglichen
+- Protein perfekt, Kalorien im moderaten Defizit
+- Hoher Zuckeranteil durch Marzipan (120g) → nicht täglich empfohlen
+- Nach aktivem Tag ist der süße Snack okay
+- Gewicht morgen könnte leicht steigen (Zucker → Wassereinlagerung)
 
 ---
 
