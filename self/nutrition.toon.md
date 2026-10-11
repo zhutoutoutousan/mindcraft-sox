@@ -305,6 +305,72 @@ Zeit: Mittag (~13:04 Uhr, vor der Abfahrt)
 - Tagesbedarf (TDEE, mäßig aktiv): 2099 kcal
 - **Noch zu verbrauchen: 1308 kcal** (weitere Mahlzeiten folgen)
 
+#### Mahlzeit 2 (Abendessen - Ausflug Chinesischer Garten)
+Zeit: Abend (~15:33 Uhr, nach Besichtigung)
+Bild: `/workspace/assets/22CC35D0-CCAC-4CD0-BFC8-D7C11FD8677F_L0_001.jpg`
+
+**Gericht:** Chinesische Dumplings/Jiaozi (餃子) mit Sojasauce
+
+**Komponenten:**
+
+**1. Dumplings (gedämpft):**
+- Dumplings: **5 Stück** → ca. **250-300 kcal**
+  - Teig (Weizenmehl): ~100 kcal
+  - Füllung (Fleisch/Gemüse): ~150-200 kcal
+  - Protein: ~15g
+  - Kohlenhydrate: ~35g
+  - Fett: ~8g
+
+**2. Sojasauce (Dip):**
+- Sojasauce: ~15ml → ca. 5 kcal
+  - Natrium-reich
+  - Praktisch keine Kalorien
+
+**Gesamtkalorien Mahlzeit 2:** ca. 280 kcal
+
+**Makronährstoffe:**
+- Protein: ~15g
+- Kohlenhydrate: ~35g
+- Fett: ~8g
+
+**Nährwertanalyse:**
+- Moderate Portion (5 Stück)
+- Ausgewogen: Protein + Kohlenhydrate + Fett
+- Typisch chinesisches Gericht
+- Perfekt nach langem Spaziergang im Garten
+- Leichte Mahlzeit, nicht zu schwer
+- Im Restaurant "Gärten der Welt" oder in der Nähe gegessen
+
+---
+
+### Tagesbilanz 2026-10-11
+
+**Kalorienzufuhr gesamt:** 1071 kcal
+  - Mahlzeit 1 (Brunch): 436 kcal
+  - Snack 1 (Kaffee + 20 Hühnerherzen): 355 kcal
+  - Mahlzeit 2 (5 Dumplings): 280 kcal
+
+**Grundumsatz (BMR):** 1354 kcal
+**TDEE (geschätzt, mäßig aktiv):** 2099 kcal
+
+**Netto-Bilanz:**
+- Zufuhr: 1071 kcal
+- Tagesbedarf (TDEE): 2099 kcal
+- **Defizit: -1028 kcal** (sehr großes Kaloriendefizit!)
+
+**Tagesanalyse:**
+- Makroverteilung: Protein ~93g (1.39g/kg Körpergewicht) ✓✓✓
+- Proteinzufuhr **HERVORRAGEND** (hauptsächlich durch 20 Hühnerherzen!)
+- **Sehr großes Kaloriendefizit** von ~1028 kcal
+- Viel Aktivität (Ausflug, Spazieren im Garten, ~4-5 Stunden unterwegs)
+- Eventuell noch eine Mahlzeit/Snack am Abend nötig?
+
+**Empfehlung:**
+- Noch ~1000 kcal unter Bedarf heute
+- Nach langem Ausflug: eventuell noch ein Snack/Abendessen zu Hause?
+- Protein ist perfekt, aber Gesamtkalorien sehr niedrig
+- Kein Problem für einen Tag, aber nicht langfristig
+
 ---
 
 ### 2026-10-09 (Freitag)
