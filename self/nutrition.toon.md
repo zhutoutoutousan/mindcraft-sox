@@ -275,32 +275,35 @@ Zeit: Mittag (~13:04 Uhr, vor der Abfahrt)
   - Praktisch keine Kalorien
   - Energie-Boost vor der Fahrt
 
-**2. Hühnerherz (hausgemacht):**
-- Hühnerherzen (gebraten/gekocht): geschätzt ~50-80g → ca. 100-130 kcal
-  - Protein: ~15g
-  - Fett: ~6g
+**2. Hühnerherzen (hausgemacht):**
+- Hühnerherzen (gebraten/gekocht): **~20 Stücke** (~150-200g) → ca. **350 kcal**
+  - Protein: ~**50g** (sehr hoch!)
+  - Fett: ~**20g**
   - Eisen-reich (Organ-Fleisch)
+  - Vitamin B12, Folsäure
   - Hausgemacht, als Snack für unterwegs vorbereitet
+  - **Deutlich mehr als ursprünglich geschätzt!**
 
-**Gesamtkalorien Snack 1:** ca. 120 kcal
+**Gesamtkalorien Snack 1:** ca. 355 kcal
 
 **Makronährstoffe:**
-- Protein: ~15g
+- Protein: ~50g 💪💪💪
 - Kohlenhydrate: ~0g
-- Fett: ~6g
+- Fett: ~20g
 
 **Nährwertanalyse:**
-- Proteinreich durch Hühnerherzen
+- **SEHR proteinreich** durch 20 Stücke Hühnerherzen!
 - Praktisch keine Kohlenhydrate
-- Leichter Snack vor langer Fahrt
+- Substantieller Snack vor langer Fahrt
 - Kaffee für Wachheit/Energie
-- Organ-Fleisch = nährstoffreich (Eisen, B-Vitamine)
-- Perfekt zum Mitnehmen
+- Organ-Fleisch = sehr nährstoffreich (Eisen, B12, Folsäure)
+- Perfekt zum Mitnehmen und für den Ausflug
+- 50g Protein in einem Snack ist außergewöhnlich hoch!
 
 **Aktuelle Bilanz (unvollständig):**
-- Zufuhr bisher: 556 kcal (Brunch 436 + Snack 120)
+- Zufuhr bisher: 791 kcal (Brunch 436 + Snack 355)
 - Tagesbedarf (TDEE, mäßig aktiv): 2099 kcal
-- **Noch zu verbrauchen: 1543 kcal** (weitere Mahlzeiten + Snacks folgen)
+- **Noch zu verbrauchen: 1308 kcal** (weitere Mahlzeiten folgen)
 
 ---
 

@@ -161,3 +161,11 @@ V Sent_2026_10_11_snack_before_departure_toon_fix kind=sentence date=2026-10-11 
 E Sent_2026_10_11_snack_before_departure_toon_fix FIXES Sent_2026_10_11_snack_before_departure_toon_raw
 E Sent_2026_10_11_snack_before_departure_toon_raw FROM_SESSION Session_2026_10_11_snack_before_departure_toon
 E Sent_2026_10_11_snack_before_departure_toon_fix FROM_SESSION Session_2026_10_11_snack_before_departure_toon
+
+# ingest-session 2026-10-11T13:07:39Z 2026-10-11-quantity-correction.toon lang=de
+V Session_2026_10_11_quantity_correction_toon kind=session date=2026-10-11 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-11-quantity-correction.toon.md
+V Sent_2026_10_11_quantity_correction_toon_raw kind=sentence date=2026-10-11 lang=de role=raw
+V Sent_2026_10_11_quantity_correction_toon_fix kind=sentence date=2026-10-11 lang=de role=corrected
+E Sent_2026_10_11_quantity_correction_toon_fix FIXES Sent_2026_10_11_quantity_correction_toon_raw
+E Sent_2026_10_11_quantity_correction_toon_raw FROM_SESSION Session_2026_10_11_quantity_correction_toon
+E Sent_2026_10_11_quantity_correction_toon_fix FROM_SESSION Session_2026_10_11_quantity_correction_toon
