@@ -264,6 +264,44 @@ Bild: `/workspace/assets/01a12a82-0bb4-7d4b-94c9-8d0bdffaf1bd.jpg`
 - Tagesbedarf (TDEE, mäßig aktiv): 2099 kcal
 - **Noch zu verbrauchen: 1663 kcal** (weitere Mahlzeiten + Snacks folgen)
 
+#### Snack 1 (Vor Abfahrt zum Chinesischen Garten)
+Zeit: Mittag (~13:04 Uhr, vor der Abfahrt)
+
+**Komponenten:**
+
+**1. Kaffee:**
+- Kaffee (1 Tasse, schwarz): ~250ml → ca. 5 kcal
+  - Koffein: ~100mg
+  - Praktisch keine Kalorien
+  - Energie-Boost vor der Fahrt
+
+**2. Hühnerherz (hausgemacht):**
+- Hühnerherzen (gebraten/gekocht): geschätzt ~50-80g → ca. 100-130 kcal
+  - Protein: ~15g
+  - Fett: ~6g
+  - Eisen-reich (Organ-Fleisch)
+  - Hausgemacht, als Snack für unterwegs vorbereitet
+
+**Gesamtkalorien Snack 1:** ca. 120 kcal
+
+**Makronährstoffe:**
+- Protein: ~15g
+- Kohlenhydrate: ~0g
+- Fett: ~6g
+
+**Nährwertanalyse:**
+- Proteinreich durch Hühnerherzen
+- Praktisch keine Kohlenhydrate
+- Leichter Snack vor langer Fahrt
+- Kaffee für Wachheit/Energie
+- Organ-Fleisch = nährstoffreich (Eisen, B-Vitamine)
+- Perfekt zum Mitnehmen
+
+**Aktuelle Bilanz (unvollständig):**
+- Zufuhr bisher: 556 kcal (Brunch 436 + Snack 120)
+- Tagesbedarf (TDEE, mäßig aktiv): 2099 kcal
+- **Noch zu verbrauchen: 1543 kcal** (weitere Mahlzeiten + Snacks folgen)
+
 ---
 
 ### 2026-10-09 (Freitag)

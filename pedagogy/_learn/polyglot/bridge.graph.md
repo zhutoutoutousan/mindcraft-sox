@@ -58,3 +58,6 @@ V Session_2026_10_11_weight_update_explanation_too kind=session date=2026-10-11 
 
 # ingest-session 2026-10-11T10:30:49Z 2026-10-11-brunch-documentation-success.toon lang=de
 V Session_2026_10_11_brunch_documentation_success_ kind=session date=2026-10-11 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-11-brunch-documentation-success.toon.md
+
+# ingest-session 2026-10-11T13:05:29Z 2026-10-11-snack-before-departure.toon lang=de
+V Session_2026_10_11_snack_before_departure_toon kind=session date=2026-10-11 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-11-snack-before-departure.toon.md
