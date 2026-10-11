@@ -177,3 +177,11 @@ V Sent_2026_10_11_dinner_dumplings_toon_fix kind=sentence date=2026-10-11 lang=d
 E Sent_2026_10_11_dinner_dumplings_toon_fix FIXES Sent_2026_10_11_dinner_dumplings_toon_raw
 E Sent_2026_10_11_dinner_dumplings_toon_raw FROM_SESSION Session_2026_10_11_dinner_dumplings_toon
 E Sent_2026_10_11_dinner_dumplings_toon_fix FROM_SESSION Session_2026_10_11_dinner_dumplings_toon
+
+# ingest-session 2026-10-11T15:38:57Z 2026-10-11-dumpling-filling-clarification.toon lang=de
+V Session_2026_10_11_dumpling_filling_clarificatio kind=session date=2026-10-11 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-11-dumpling-filling-clarification.toon.md
+V Sent_2026_10_11_dumpling_filling_clarificatio_raw kind=sentence date=2026-10-11 lang=de role=raw
+V Sent_2026_10_11_dumpling_filling_clarificatio_fix kind=sentence date=2026-10-11 lang=de role=corrected
+E Sent_2026_10_11_dumpling_filling_clarificatio_fix FIXES Sent_2026_10_11_dumpling_filling_clarificatio_raw
+E Sent_2026_10_11_dumpling_filling_clarificatio_raw FROM_SESSION Session_2026_10_11_dumpling_filling_clarificatio
+E Sent_2026_10_11_dumpling_filling_clarificatio_fix FROM_SESSION Session_2026_10_11_dumpling_filling_clarificatio

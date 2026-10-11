@@ -309,17 +309,18 @@ Zeit: Mittag (~13:04 Uhr, vor der Abfahrt)
 Zeit: Abend (~15:33 Uhr, nach Besichtigung)
 Bild: `/workspace/assets/22CC35D0-CCAC-4CD0-BFC8-D7C11FD8677F_L0_001.jpg`
 
-**Gericht:** Chinesische Dumplings/Jiaozi (餃子) mit Sojasauce
+**Gericht:** Chinesische Dumplings/Jiaozi (餃子/韭菜猪肉饺子) mit Sojasauce
 
 **Komponenten:**
 
 **1. Dumplings (gedämpft):**
 - Dumplings: **5 Stück** → ca. **250-300 kcal**
   - Teig (Weizenmehl): ~100 kcal
-  - Füllung (Fleisch/Gemüse): ~150-200 kcal
+  - **Füllung:** Schweinefleisch (猪肉) + Chinesischer Schnittlauch (韭菜/jiǔcài): ~150-200 kcal
   - Protein: ~15g
   - Kohlenhydrate: ~35g
   - Fett: ~8g
+  - **Klassische chinesische Kombination!**
 
 **2. Sojasauce (Dip):**
 - Sojasauce: ~15ml → ca. 5 kcal

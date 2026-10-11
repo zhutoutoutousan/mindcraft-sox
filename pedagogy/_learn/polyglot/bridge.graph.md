@@ -67,3 +67,6 @@ V Session_2026_10_11_quantity_correction_toon kind=session date=2026-10-11 lang=
 
 # ingest-session 2026-10-11T15:35:58Z 2026-10-11-dinner-dumplings.toon lang=de
 V Session_2026_10_11_dinner_dumplings_toon kind=session date=2026-10-11 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-11-dinner-dumplings.toon.md
+
+# ingest-session 2026-10-11T15:38:57Z 2026-10-11-dumpling-filling-clarification.toon lang=de
+V Session_2026_10_11_dumpling_filling_clarificatio kind=session date=2026-10-11 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-11-dumpling-filling-clarification.toon.md
