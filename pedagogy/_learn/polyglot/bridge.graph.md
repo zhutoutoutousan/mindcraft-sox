@@ -55,3 +55,6 @@ V Session_2026_10_10_dinner_documentation_success_ kind=session date=2026-10-10 
 
 # ingest-session 2026-10-11T09:12:25Z 2026-10-11-weight-update-explanation.toon lang=de
 V Session_2026_10_11_weight_update_explanation_too kind=session date=2026-10-11 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-11-weight-update-explanation.toon.md
+
+# ingest-session 2026-10-11T10:30:49Z 2026-10-11-brunch-documentation-success.toon lang=de
+V Session_2026_10_11_brunch_documentation_success_ kind=session date=2026-10-11 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-11-brunch-documentation-success.toon.md

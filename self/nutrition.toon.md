@@ -214,6 +214,56 @@ Zeit: Morgen (~09:09 Uhr)
 - Heute leichter essen und früher die letzte Mahlzeit
 - Morgen wird das Gewicht wahrscheinlich wieder sinken
 
+#### Mahlzeit 1 (Brunch)
+Zeit: Vormittag (~10:28 Uhr, vor Ausflug zum Chinesischen Garten)
+Bild: `/workspace/assets/01a12a82-0bb4-7d4b-94c9-8d0bdffaf1bd.jpg`
+
+**Gericht:** EDEKA "Gut & Günstig" Hühnerfrikassee mit Reis
+
+**Komponenten:**
+
+**1. Hühnerfrikassee (Fertiggericht):**
+- Hühnerfrikassee (1 Packung, 400g) → ca. 436 kcal
+  - Mit Hähnchenfleisch
+  - In cremiger Sauce
+  - Gemüse: Champignons, Erbsen, Karotten, Langkornreis
+  - Protein: ~28g
+  - Kohlenhydrate: ~45g
+  - Fett: ~13.2g
+
+**Nährwerte pro 100g (laut Verpackung):**
+- Energie: 109 kcal
+- Eiweiß: 7g
+- Kohlenhydrate: 11.3g
+- Fett: 3.3g
+
+**Nutri-Score: C** (mittlere Nährwertqualität)
+
+**Zubereitung:** 
+- Mikrowelle: 5 Min (600 Watt)
+- Topf: 15 Min
+
+**Gesamtkalorien Mahlzeit 1:** ca. 436 kcal
+
+**Makronährstoffe:**
+- Protein: ~28g
+- Kohlenhydrate: ~45g
+- Fett: ~13.2g
+
+**Nährwertanalyse:**
+- Proteinreich durch Hähnchenfleisch
+- Fettarm (nur 13.2g)
+- Reis bereits enthalten (praktisch!)
+- Gemüsevielfalt (Champignons, Erbsen, Karotten)
+- Fertiggericht, aber relativ ausgewogen
+- Perfekt vor dem Ausflug zum Chinesischen Garten
+- Schnell zubereitet (5-15 Min)
+
+**Aktuelle Bilanz (unvollständig):**
+- Zufuhr bisher: 436 kcal
+- Tagesbedarf (TDEE, mäßig aktiv): 2099 kcal
+- **Noch zu verbrauchen: 1663 kcal** (weitere Mahlzeiten + Snacks folgen)
+
 ---
 
 ### 2026-10-09 (Freitag)
