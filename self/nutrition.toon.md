@@ -7,7 +7,7 @@ version: 1.0
 Tägliche Kalorienzufuhr und -verbrauch dokumentieren und analysieren.
 
 ## Profil / Profile
-- **Körpergewicht:** 66.05 kg (zuletzt: 09.10.2026)
+- **Körpergewicht:** 66.70 kg (zuletzt: 11.10.2026)
 - **Körpergröße:** 168 cm
 - **Alter:** 40 Jahre
 - **Geschlecht:** weiblich
@@ -133,36 +133,86 @@ Bilder: `/workspace/assets/166DC9DA-347A-4675-88CA-8734CE995532_L0_001.jpg`, `/w
 - Klassisches deutsches Frikassee
 - Praktisch und schnell zubereitet
 
+#### Mahlzeit 3 (Spätabend mit Owen)
+Zeit: Nacht (~22:00-23:00 Uhr, vor dem Schlafen)
+
+**Gericht:** Hühnerschenkel (mit Owen)
+
+**Komponenten:**
+- Hühnerschenkel (gebraten/gegrillt): geschätzt 2-3 Stück (~250-300g mit Haut) → ca. 600-700 kcal
+  - Protein: ~50g
+  - Fett: ~45g (Haut ist sehr fettreich)
+  - Kohlenhydrate: ~0g
+
+**Geschätzte Kalorien:** ca. 650 kcal
+
+**Makronährstoffe:**
+- Protein: ~50g
+- Kohlenhydrate: ~0g
+- Fett: ~45g
+
+**Nährwertanalyse:**
+- Sehr proteinreich
+- Hoher Fettanteil durch Hühnerhaut
+- Spätes Essen vor dem Schlafen → kann Wassereinlagerung verursachen
+- Gemeinsames Essen mit Owen (soziale Komponente)
+
 ---
 
-### Tagesbilanz 2026-10-10
+### Tagesbilanz 2026-10-10 (REVIDIERT)
 
-**Kalorienzufuhr gesamt:** 1325 kcal
+**Kalorienzufuhr gesamt:** 1975 kcal
   - Mahlzeit 1 (Frühstück): 730 kcal
   - Mahlzeit 2 (Abendessen): 595 kcal
+  - Mahlzeit 3 (Spätabend): 650 kcal
 
 **Grundumsatz (BMR):** 1354 kcal
 **TDEE (geschätzt, mäßig aktiv):** 2099 kcal
 
 **Netto-Bilanz:**
-- Zufuhr: 1325 kcal
+- Zufuhr: 1975 kcal
 - Tagesbedarf (TDEE): 2099 kcal
-- **Defizit: -774 kcal** (deutliches Kaloriendefizit)
+- **Defizit: -124 kcal** (kleines Kaloriendefizit)
 
-**Tagesanalyse:**
-- Makroverteilung: Protein ~69g (1.04g/kg Körpergewicht) ✓✓
-- Proteinzufuhr sehr gut (über Empfehlung)
-- Kaloriendefizit von ~774 kcal → gut für Gewichtsreduktion
-- Fettanteil moderat (heute niedriger als gestern)
-- Ausgewogen: Herzhaftes Frühstück + leichtes Abendessen
+**Tagesanalyse (REVIDIERT):**
+- Makroverteilung: Protein ~119g (1.78g/kg Körpergewicht) ✓✓✓
+- Proteinzufuhr **hervorragend** durch Hühnerschenkel am Abend!
+- Kleines Kaloriendefizit von ~124 kcal → fast Erhaltungskalorien
+- Fettanteil höher durch späte Hühnerschenkel (105.5g gesamt)
+- **Spätes Essen** → wahrscheinlicher Grund für Gewichtszunahme am nächsten Morgen (Wassereinlagerung + voller Magen)
 
 **Vergleich zu gestern (09.10.):**
-| | 09.10. | 10.10. | Änderung |
+| | 09.10. | 10.10. (neu) | Änderung |
 |---|---|---|---|
-| Kalorien | 1305 | 1325 | +20 kcal |
-| Protein | 92g | 69g | -23g |
-| Fett | 72g | 60.5g | -11.5g |
-| Defizit | -794 | -774 | weniger Defizit |
+| Kalorien | 1305 | 1975 | +670 kcal |
+| Protein | 92g | 119g | +27g |
+| Fett | 72g | 105.5g | +33.5g |
+| Defizit | -794 | -124 | viel weniger Defizit |
+
+**Wichtig:** Die späten Hühnerschenkel vor dem Schlafen erklären die Gewichtszunahme am 11.10. (66.70 kg vs. 66.05 kg am 09.10.) → +0.65 kg ist wahrscheinlich Wassereinlagerung, nicht Fettaufbau.
+
+---
+
+### 2026-10-11 (Sonntag)
+
+#### Körperdaten / Body Metrics
+Zeit: Morgen (~09:09 Uhr)
+
+**Messwerte:**
+- **Körpergewicht:** 66.70 kg (↑0.65 kg seit 09.10.2026)
+
+**Analyse:**
+- Gewichtszunahme von 0.65 kg seit 09.10. (2 Tage)
+- **Wahrscheinlicher Grund:** Spätes Essen am 10.10. Abend (Hühnerschenkel mit Owen vor dem Schlafen)
+- Wassereinlagerung + voller Magen am Morgen
+- Hoher Fettanteil beim späten Essen (105.5g am 10.10.)
+- Nahezu Erhaltungskalorien am 10.10. (1975 kcal, nur -124 Defizit)
+
+**Empfehlung:**
+- Normal! Kurzfristige Schwankung durch spätes Essen
+- Kein echtes Fett aufgebaut (0.65 kg = nicht 5000+ kcal Überschuss)
+- Heute leichter essen und früher die letzte Mahlzeit
+- Morgen wird das Gewicht wahrscheinlich wieder sinken
 
 ---
 
