@@ -473,90 +473,91 @@ Bild: `/workspace/assets/01a1301b-4244-7621-b06a-a25d9f131b26.jpg`
 Zeit: Abend (~15:08 Uhr)
 Bild: `/workspace/assets/DEF24C54-C99B-458F-A97C-BDD8D4932854_L0_001.jpg`
 
-**Gericht:** Gemüse-Hühner-Bowl mit Kartoffeln und Pommes
+**Gericht:** Vegetarische Gemüse-Kartoffel-Bowl
 
 **Komponenten:**
 
-**1. Hühnerfleisch (gebraten/gegrillt):**
-- Hähnchenbrust-Stücke (gewürzt): ~150g → ca. 250 kcal
-  - Protein: ~38g (sehr hoch!)
-  - Fett: ~8g
-  - Mild gewürzt
+**1. Kartoffeln (verschiedene Zubereitungen):**
+- Kartoffelscheiben (gebacken/gebraten): ~200g → ca. 240 kcal
+  - Kohlenhydrate: ~47g
+  - Protein: ~5g
+  - Fett: ~5g (Öl)
 
-**2. Kartoffeln (verschiedene Zubereitungen):**
-- Kartoffelscheiben (gebacken/gebraten): ~150g → ca. 180 kcal
+- Kartoffelstücke/Gnocchi (gekocht/gebraten): ~150g → ca. 180 kcal
   - Kohlenhydrate: ~35g
   - Protein: ~4g
-  - Fett: ~4g (Öl)
+  - Fett: ~4g
 
 - Pommes Frites (dünn): ~80g → ca. 200 kcal
   - Kohlenhydrate: ~26g
   - Protein: ~3g
   - Fett: ~10g
 
-**Kartoffeln Gesamt:** ca. 380 kcal
+**Kartoffeln Gesamt:** ca. 620 kcal
 
-**3. Zucchini (gebraten):**
+**2. Zucchini (gebraten):**
 - Zucchini-Scheiben (grün-gelb): ~120g → ca. 30 kcal
   - Vitamin C, Kalium
   - Kohlenhydrate: ~4g
   - Ballaststoffe
 
-**4. Zwiebeln (karamellisiert):**
-- Zwiebeln (gebraten/glasiert): ~50g → ca. 25 kcal
-  - Kohlenhydrate: ~5g
+**3. Zwiebeln (karamellisiert):**
+- Zwiebeln (gebraten/glasiert): ~60g → ca. 30 kcal
+  - Kohlenhydrate: ~6g
   - Süßlich durch Karamellisierung
 
-**5. Öl/Gewürze zum Braten:**
-- Öl (zum Braten): ~10g → ca. 90 kcal
-  - Fett: ~10g
+**4. Öl/Gewürze zum Braten:**
+- Öl (zum Braten): ~15g → ca. 135 kcal
+  - Fett: ~15g
 
-**Gesamtkalorien Mahlzeit 2:** ca. 775 kcal
+**Gesamtkalorien Mahlzeit 2:** ca. 815 kcal
 
 **Makronährstoffe:**
-- Protein: ~45g (hervorragend!)
-- Kohlenhydrate: ~70g
-- Fett: ~32g
+- Protein: ~12g
+- Kohlenhydrate: ~118g
+- Fett: ~34g
 
 **Nährwertanalyse:**
-- **Sehr proteinreich** durch Hühnerfleisch (38g!)
+- **Vegetarisch** - kein Fleisch
+- Kartoffeln in drei verschiedenen Zubereitungen (gebacken, gekocht, frittiert)
 - Gute Gemüsevielfalt (Zucchini, Zwiebeln)
-- Kartoffeln als Hauptkohlenhydrat-Quelle
-- Zweifache Kartoffel-Zubereitung (gebacken + Pommes)
-- Ausgewogene Bowl mit allen Makronährstoffen
+- Kohlenhydratreich durch Kartoffeln (118g)
+- Proteinarm (nur 12g aus Kartoffeln und Gemüse)
 - Bunte Präsentation in Holzschale
 - Hausgemacht und frisch zubereitet
+- Sättigend durch hohen Kartoffelanteil
 
 ---
 
-### Tagesbilanz 2026-10-12
+### Tagesbilanz 2026-10-12 (KORRIGIERT)
 
-**Kalorienzufuhr gesamt:** 1402 kcal
+**Kalorienzufuhr gesamt:** 1442 kcal
   - Mahlzeit 1 (Pulled-Chicken-Wrap): 627 kcal
-  - Mahlzeit 2 (Gemüse-Hühner-Bowl): 775 kcal
+  - Mahlzeit 2 (Vegetarische Gemüse-Kartoffel-Bowl): 815 kcal
 
 **Grundumsatz (BMR):** 1354 kcal
 **TDEE (geschätzt, mäßig aktiv):** 2099 kcal
 
 **Netto-Bilanz:**
-- Zufuhr: 1402 kcal
+- Zufuhr: 1442 kcal
 - Tagesbedarf (TDEE): 2099 kcal
-- **Defizit: -697 kcal** (großes Kaloriendefizit)
+- **Defizit: -657 kcal** (großes Kaloriendefizit)
 
-**Tagesanalyse:**
-- Makroverteilung: Protein ~87g (1.30g/kg Körpergewicht) ✓✓✓
-- Proteinzufuhr **HERVORRAGEND** durch zweimal Hühnerfleisch!
-- **Großes Kaloriendefizit** von ~697 kcal
-- Beide Mahlzeiten sehr proteinreich (42g + 45g)
-- Kohlenhydrate: ~125g (hauptsächlich Kartoffeln, Tortilla)
-- Fett: ~56g
+**Tagesanalyse (KORRIGIERT):**
+- Makroverteilung: Protein ~54g (0.81g/kg Körpergewicht) ⚠️
+- Proteinzufuhr **NIEDRIG** - nur durch Pulled Chicken im Wrap (42g), Bowl vegetarisch (12g)
+- **Großes Kaloriendefizit** von ~657 kcal
+- Kohlenhydrate: ~173g (hauptsächlich Kartoffeln, Tortilla)
+- Fett: ~58g
 - Gute Gemüsevielfalt (Paprika, Zucchini, Zwiebeln, Sauerkraut)
+- Abendessen vegetarisch ohne Proteinquelle
 
 **Empfehlung:**
-- Noch ~700 kcal unter Bedarf → eventuell noch ein Snack am Abend?
-- Protein ist perfekt (87g = ausreichend für Muskelerhalt)
-- Falls kein Hunger: Defizit ist okay für einen Tag
-- Falls Hunger: Noch ~500-700 kcal mit gesundem Snack (Nüsse, Joghurt, Obst)
+- ⚠️ **Protein heute zu niedrig** (54g, empfohlen: ~80-100g)
+- Noch ~660 kcal unter Bedarf → proteinreicher Snack empfohlen!
+- **Vorschlag:** Griechischer Joghurt (200g = ~19g Protein, ~130 kcal) oder Quark
+- Oder: Hüttenkäse, Nüsse, Proteinshake
+- Vegetarische Mahlzeiten brauchen Proteinquelle (Tofu, Hülsenfrüchte, Milchprodukte, Eier)
 
 ---
 

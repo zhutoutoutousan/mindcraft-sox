@@ -76,3 +76,6 @@ V Session_2026_10_11_marzipan_documentation_toon kind=session date=unknown lang=
 
 # ingest-session 2026-10-12T12:37:08Z 2026-10-12-pulled-chicken-wrap-documentation.toon lang=de
 V Session_2026_10_12_pulled_chicken_wrap_documenta kind=session date=unknown lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-12-pulled-chicken-wrap-documentation.toon.md
+
+# ingest-session 2026-10-12T18:07:34Z 2026-10-12-no-meat-correction.toon lang=de
+V Session_2026_10_12_no_meat_correction_toon kind=session date=unknown lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-12-no-meat-correction.toon.md
