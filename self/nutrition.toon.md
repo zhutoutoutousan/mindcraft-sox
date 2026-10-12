@@ -410,6 +410,67 @@ Bilder: `/workspace/assets/01a12c13-c031-7092-a6de-8fab481eed17.jpg`, `/workspac
 
 ---
 
+### 2026-10-12 (Montag)
+
+#### Mahlzeit 1 (Mittagessen)
+Zeit: Mittag (~12:35 Uhr)
+Bild: `/workspace/assets/01a1301b-4244-7621-b06a-a25d9f131b26.jpg`
+
+**Gericht:** Pulled-Chicken-Wrap mit bunten Paprika und Gemüse
+
+**Komponenten:**
+
+**1. Tortilla-Wrap (groß):**
+- Weizen-Tortilla (groß, ~80g): → ca. 240 kcal
+  - Kohlenhydrate: ~45g
+  - Protein: ~7g
+  - Fett: ~4g
+
+**2. Pulled Chicken (gezupftes Hähnchenfleisch):**
+- Pulled Chicken (gewürzt, langsam gegart): ~150g → ca. 280 kcal
+  - Protein: ~35g (sehr hoch!)
+  - Fett: ~15g
+  - BBQ/Gewürze
+
+**3. Gemüse-Füllung:**
+- Paprika (rot, gelb, grün gemischt): ~80g → ca. 25 kcal
+  - Vitamin C, Beta-Carotin
+  - Kohlenhydrate: ~5g
+  
+- Sauerkraut/Weißkohl (fermentiert): ~40g → ca. 10 kcal
+  - Probiotisch, Ballaststoffe
+  - Vitamin C
+  
+- Zwiebeln (gebraten/roh): ~30g → ca. 12 kcal
+  - Quercetin, Präbiotika
+
+**4. Sauce/Dressing:**
+- BBQ-Sauce oder Joghurt-Dressing: ~30ml → ca. 60 kcal
+  - Fett: ~5g
+  - Zucker: ~5g
+
+**Gesamtkalorien Mahlzeit 1:** ca. 627 kcal
+
+**Makronährstoffe:**
+- Protein: ~42g (hervorragend!)
+- Kohlenhydrate: ~55g
+- Fett: ~24g
+
+**Nährwertanalyse:**
+- **Sehr proteinreich** durch Pulled Chicken (35g!)
+- Große Gemüsevielfalt (3 Farben Paprika = verschiedene Antioxidantien)
+- Sauerkraut/Kohl → probiotisch, gut für Darmgesundheit
+- Ausgewogene Makronährstoffe
+- Handlich und praktisch (to-go in Alufolie)
+- Klassisches amerikanisches BBQ-Gericht, deutsch adaptiert
+
+**Aktuelle Bilanz (unvollständig):**
+- Zufuhr bisher: 627 kcal
+- Tagesbedarf (TDEE, mäßig aktiv): 2099 kcal
+- **Noch zu verbrauchen: 1472 kcal** (weitere Mahlzeiten folgen)
+
+---
+
 ### 2026-10-09 (Freitag)
 
 #### Körperdaten / Body Metrics

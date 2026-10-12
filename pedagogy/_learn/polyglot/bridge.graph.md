@@ -73,3 +73,6 @@ V Session_2026_10_11_dumpling_filling_clarificatio kind=session date=2026-10-11 
 
 # ingest-session 2026-10-11T17:51:24Z 2026-10-11-marzipan-documentation.toon lang=de
 V Session_2026_10_11_marzipan_documentation_toon kind=session date=unknown lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-11-marzipan-documentation.toon.md
+
+# ingest-session 2026-10-12T12:37:08Z 2026-10-12-pulled-chicken-wrap-documentation.toon lang=de
+V Session_2026_10_12_pulled_chicken_wrap_documenta kind=session date=unknown lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-12-pulled-chicken-wrap-documentation.toon.md
