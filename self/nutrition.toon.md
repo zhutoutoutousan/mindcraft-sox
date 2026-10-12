@@ -469,6 +469,95 @@ Bild: `/workspace/assets/01a1301b-4244-7621-b06a-a25d9f131b26.jpg`
 - Tagesbedarf (TDEE, mäßig aktiv): 2099 kcal
 - **Noch zu verbrauchen: 1472 kcal** (weitere Mahlzeiten folgen)
 
+#### Mahlzeit 2 (Abendessen)
+Zeit: Abend (~15:08 Uhr)
+Bild: `/workspace/assets/DEF24C54-C99B-458F-A97C-BDD8D4932854_L0_001.jpg`
+
+**Gericht:** Gemüse-Hühner-Bowl mit Kartoffeln und Pommes
+
+**Komponenten:**
+
+**1. Hühnerfleisch (gebraten/gegrillt):**
+- Hähnchenbrust-Stücke (gewürzt): ~150g → ca. 250 kcal
+  - Protein: ~38g (sehr hoch!)
+  - Fett: ~8g
+  - Mild gewürzt
+
+**2. Kartoffeln (verschiedene Zubereitungen):**
+- Kartoffelscheiben (gebacken/gebraten): ~150g → ca. 180 kcal
+  - Kohlenhydrate: ~35g
+  - Protein: ~4g
+  - Fett: ~4g (Öl)
+
+- Pommes Frites (dünn): ~80g → ca. 200 kcal
+  - Kohlenhydrate: ~26g
+  - Protein: ~3g
+  - Fett: ~10g
+
+**Kartoffeln Gesamt:** ca. 380 kcal
+
+**3. Zucchini (gebraten):**
+- Zucchini-Scheiben (grün-gelb): ~120g → ca. 30 kcal
+  - Vitamin C, Kalium
+  - Kohlenhydrate: ~4g
+  - Ballaststoffe
+
+**4. Zwiebeln (karamellisiert):**
+- Zwiebeln (gebraten/glasiert): ~50g → ca. 25 kcal
+  - Kohlenhydrate: ~5g
+  - Süßlich durch Karamellisierung
+
+**5. Öl/Gewürze zum Braten:**
+- Öl (zum Braten): ~10g → ca. 90 kcal
+  - Fett: ~10g
+
+**Gesamtkalorien Mahlzeit 2:** ca. 775 kcal
+
+**Makronährstoffe:**
+- Protein: ~45g (hervorragend!)
+- Kohlenhydrate: ~70g
+- Fett: ~32g
+
+**Nährwertanalyse:**
+- **Sehr proteinreich** durch Hühnerfleisch (38g!)
+- Gute Gemüsevielfalt (Zucchini, Zwiebeln)
+- Kartoffeln als Hauptkohlenhydrat-Quelle
+- Zweifache Kartoffel-Zubereitung (gebacken + Pommes)
+- Ausgewogene Bowl mit allen Makronährstoffen
+- Bunte Präsentation in Holzschale
+- Hausgemacht und frisch zubereitet
+
+---
+
+### Tagesbilanz 2026-10-12
+
+**Kalorienzufuhr gesamt:** 1402 kcal
+  - Mahlzeit 1 (Pulled-Chicken-Wrap): 627 kcal
+  - Mahlzeit 2 (Gemüse-Hühner-Bowl): 775 kcal
+
+**Grundumsatz (BMR):** 1354 kcal
+**TDEE (geschätzt, mäßig aktiv):** 2099 kcal
+
+**Netto-Bilanz:**
+- Zufuhr: 1402 kcal
+- Tagesbedarf (TDEE): 2099 kcal
+- **Defizit: -697 kcal** (großes Kaloriendefizit)
+
+**Tagesanalyse:**
+- Makroverteilung: Protein ~87g (1.30g/kg Körpergewicht) ✓✓✓
+- Proteinzufuhr **HERVORRAGEND** durch zweimal Hühnerfleisch!
+- **Großes Kaloriendefizit** von ~697 kcal
+- Beide Mahlzeiten sehr proteinreich (42g + 45g)
+- Kohlenhydrate: ~125g (hauptsächlich Kartoffeln, Tortilla)
+- Fett: ~56g
+- Gute Gemüsevielfalt (Paprika, Zucchini, Zwiebeln, Sauerkraut)
+
+**Empfehlung:**
+- Noch ~700 kcal unter Bedarf → eventuell noch ein Snack am Abend?
+- Protein ist perfekt (87g = ausreichend für Muskelerhalt)
+- Falls kein Hunger: Defizit ist okay für einen Tag
+- Falls Hunger: Noch ~500-700 kcal mit gesundem Snack (Nüsse, Joghurt, Obst)
+
 ---
 
 ### 2026-10-09 (Freitag)
