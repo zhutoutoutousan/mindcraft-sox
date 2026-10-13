@@ -571,12 +571,13 @@ Bilder: `/workspace/assets/01a1349d-1f7d-7e54-b9f3-cfdff06982de.jpg`, `/workspac
 
 **Komponenten:**
 
-**1. Hähnchen-Stelze (gebratene Hähnchenhaxe):**
-- Hähnchen-Unterschenkel (große Stelze mit Haut): ~400-450g → ca. 700 kcal
-  - Protein: ~65g (sehr hoch!)
-  - Fett: ~45g (mit Haut)
+**1. Hähnchenschenkel (kleines Stück):**
+- Hähnchen-Fleisch vom Schenkel (mit etwas Haut): ~80g → ca. 130 kcal
+  - Protein: ~14g
+  - Fett: ~8g (mit Haut)
   - Kohlenhydrate: ~0g
   - Gegrillt/gebraten mit knuspriger Haut
+  - **Hinweis:** Nur ein kleines Stück, nicht die ganze Stelze
 
 **2. Gemüsereis (großer Topf, Paella-Stil):**
 - Reis (gekocht): ~300g → ca. 390 kcal
@@ -602,27 +603,27 @@ Bilder: `/workspace/assets/01a1349d-1f7d-7e54-b9f3-cfdff06982de.jpg`, `/workspac
   - Mit Süßungsmittel
   - Nutri-Score: C (mittel)
 
-**Gesamtkalorien Mahlzeit 1:** ca. 1435 kcal
+**Gesamtkalorien Mahlzeit 1:** ca. 865 kcal
 
 **Makronährstoffe:**
-- Protein: ~112g (EXTREM HOCH! 💪💪💪)
+- Protein: ~61g (sehr gut! ✓✓✓)
 - Kohlenhydrate: ~100g
-- Fett: ~60.5g
+- Fett: ~23.5g
 
 **Nährwertanalyse:**
-- **EXTREM PROTEINREICH** durch Hähnchen-Stelze (65g) + Protein-Drink (35g)!
-- 112g Protein in einer Mahlzeit = 1.68g/kg Körpergewicht ✓✓✓
-- Große, sättigende Mahlzeit
-- Gute Kohlenhydrate durch Reis
+- **Sehr proteinreich** hauptsächlich durch Protein-Drink (35g) + Hähnchen (14g) + Reis (12g)
+- 61g Protein in einer Mahlzeit = 0.91g/kg Körpergewicht ✓✓
+- Moderate, ausgewogene Mahlzeit
+- Gute Kohlenhydrate durch Reis (80g)
 - Gemüse: Paprika (Vitamin C) + Erbsen (Ballaststoffe)
-- Hähnchenhaut = hoher Fettanteil (aber auch viel Geschmack)
+- Moderate Fettmenge (23.5g)
 - Paella-Stil Reis mit Safran/Kurkuma (gelbe Farbe)
-- Perfekt zum Muskelaufbau/Muskelerhalt
+- Protein-Drink liefert Hauptprotein (35g = 57% des Proteins dieser Mahlzeit)
 
 **Aktuelle Bilanz (unvollständig):**
-- Zufuhr bisher: 1435 kcal
+- Zufuhr bisher: 865 kcal
 - Tagesbedarf (TDEE, mäßig aktiv): 2099 kcal
-- **Noch zu verbrauchen: 664 kcal** (weitere Mahlzeiten folgen)
+- **Noch zu verbrauchen: 1234 kcal** (weitere Mahlzeiten folgen)
 
 ---
 

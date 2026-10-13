@@ -79,3 +79,6 @@ V Session_2026_10_12_pulled_chicken_wrap_documenta kind=session date=unknown lan
 
 # ingest-session 2026-10-12T18:07:34Z 2026-10-12-no-meat-correction.toon lang=de
 V Session_2026_10_12_no_meat_correction_toon kind=session date=unknown lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-12-no-meat-correction.toon.md
+
+# ingest-session 2026-10-13T14:31:25Z 2026-10-13-chicken-portion-correction.toon lang=de
+V Session_2026_10_13_chicken_portion_correction_to kind=session date=unknown lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-13-chicken-portion-correction.toon.md
