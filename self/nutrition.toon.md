@@ -561,6 +561,71 @@ Bild: `/workspace/assets/DEF24C54-C99B-458F-A97C-BDD8D4932854_L0_001.jpg`
 
 ---
 
+### 2026-10-13 (Dienstag)
+
+#### Mahlzeit 1 (Brunch)
+Zeit: Vormittag (~09:36 Uhr)
+Bilder: `/workspace/assets/01a1349d-1f7d-7e54-b9f3-cfdff06982de.jpg`, `/workspace/assets/01a1349d-1fdd-7963-af24-d04daf05547f.jpg`, `/workspace/assets/01a1349d-2037-7367-9041-0c54e9d0f665.jpg`
+
+**Gericht:** Hähnchen-Stelze mit Gemüsereis und Protein-Drink
+
+**Komponenten:**
+
+**1. Hähnchen-Stelze (gebratene Hähnchenhaxe):**
+- Hähnchen-Unterschenkel (große Stelze mit Haut): ~400-450g → ca. 700 kcal
+  - Protein: ~65g (sehr hoch!)
+  - Fett: ~45g (mit Haut)
+  - Kohlenhydrate: ~0g
+  - Gegrillt/gebraten mit knuspriger Haut
+
+**2. Gemüsereis (großer Topf, Paella-Stil):**
+- Reis (gekocht): ~300g → ca. 390 kcal
+  - Kohlenhydrate: ~80g
+  - Protein: ~8g
+  
+- Gemüse (Paprika rot, Erbsen grün): ~150g → ca. 60 kcal
+  - Paprika: ~80g → ca. 30 kcal
+  - Erbsen (grün): ~70g → ca. 30 kcal
+  - Kohlenhydrate: ~12g
+  - Protein: ~4g
+
+- Öl/Gewürze (Safran/Kurkuma für gelbe Farbe): ~15g → ca. 135 kcal
+  - Fett: ~15g
+
+**Gemüsereis Gesamt:** ca. 585 kcal
+
+**3. EDEKA "Gut & Günstig" High Protein Drink (Vanille):**
+- Protein-Drink: 1 Flasche (330ml) → ca. 130-150 kcal
+  - **Protein: 35g** (sehr hoch!)
+  - Kohlenhydrate: ~8g
+  - Fett: ~0.5g
+  - Mit Süßungsmittel
+  - Nutri-Score: C (mittel)
+
+**Gesamtkalorien Mahlzeit 1:** ca. 1435 kcal
+
+**Makronährstoffe:**
+- Protein: ~112g (EXTREM HOCH! 💪💪💪)
+- Kohlenhydrate: ~100g
+- Fett: ~60.5g
+
+**Nährwertanalyse:**
+- **EXTREM PROTEINREICH** durch Hähnchen-Stelze (65g) + Protein-Drink (35g)!
+- 112g Protein in einer Mahlzeit = 1.68g/kg Körpergewicht ✓✓✓
+- Große, sättigende Mahlzeit
+- Gute Kohlenhydrate durch Reis
+- Gemüse: Paprika (Vitamin C) + Erbsen (Ballaststoffe)
+- Hähnchenhaut = hoher Fettanteil (aber auch viel Geschmack)
+- Paella-Stil Reis mit Safran/Kurkuma (gelbe Farbe)
+- Perfekt zum Muskelaufbau/Muskelerhalt
+
+**Aktuelle Bilanz (unvollständig):**
+- Zufuhr bisher: 1435 kcal
+- Tagesbedarf (TDEE, mäßig aktiv): 2099 kcal
+- **Noch zu verbrauchen: 664 kcal** (weitere Mahlzeiten folgen)
+
+---
+
 ### 2026-10-09 (Freitag)
 
 #### Körperdaten / Body Metrics
