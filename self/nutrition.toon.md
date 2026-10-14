@@ -7,7 +7,7 @@ version: 1.0
 Tägliche Kalorienzufuhr und -verbrauch dokumentieren und analysieren.
 
 ## Profil / Profile
-- **Körpergewicht:** 66.70 kg (zuletzt: 11.10.2026)
+- **Körpergewicht:** 65.85 kg (zuletzt: 14.10.2026)
 - **Körpergröße:** 168 cm
 - **Alter:** 40 Jahre
 - **Geschlecht:** weiblich
@@ -18,10 +18,13 @@ Tägliche Kalorienzufuhr und -verbrauch dokumentieren und analysieren.
 **Mifflin-St Jeor Formel (Frauen):**
 ```
 BMR = (10 × Gewicht) + (6.25 × Größe) - (5 × Alter) - 161
-BMR = (10 × 66.5) + (6.25 × 168) - (5 × 40) - 161
-BMR = 665 + 1050 - 200 - 161
-BMR = 1354 kcal/Tag
+BMR = (10 × 65.85) + (6.25 × 168) - (5 × 40) - 161
+BMR = 658.5 + 1050 - 200 - 161
+BMR = 1347.5 kcal/Tag ≈ 1348 kcal/Tag
 ```
+
+**App-Messung (bioelektrische Impedanzanalyse):**
+- BMR = 1306 kcal/Tag (gemessen am 14.10.2026)
 
 ### Gesamtumsatz (TDEE) nach Aktivitätslevel
 
@@ -624,6 +627,69 @@ Bilder: `/workspace/assets/01a1349d-1f7d-7e54-b9f3-cfdff06982de.jpg`, `/workspac
 - Zufuhr bisher: 865 kcal
 - Tagesbedarf (TDEE, mäßig aktiv): 2099 kcal
 - **Noch zu verbrauchen: 1234 kcal** (weitere Mahlzeiten folgen)
+
+---
+
+### 2026-10-14 (Mittwoch)
+
+#### Körperdaten / Body Metrics
+Zeit: Morgen (~08:12 Uhr, vor dem Frühstück)
+Bild: `/workspace/assets/6E590B4A-3500-4AA4-9696-F2C35A2AA8D6_L0_001.jpg`
+
+**Messwerte (bioelektrische Impedanzanalyse):**
+- **Körpergewicht:** 65.85 kg (↓0.85 kg seit 11.10.2026)
+- **BMI:** 23.3 (理想/Ideal - im gesunden Normalbereich)
+
+**Körperzusammensetzung:**
+
+| Messwert | Wert | Status/Bereich |
+|----------|------|----------------|
+| **Körperfett** | 32.0% | 偏高/Leicht erhöht |
+| **Fettfreie Körpermasse** | 9.8 kg | 标准/Standard |
+| **Unterhautfett** | 28.0% | 标准/Standard |
+| **Viszerales Fett** | Level 5 | 标准/Standard (gesund) |
+| **Körperwasser** | 51.0% | 标准/Standard |
+| **Skelettmuskel** | 36.5% | 标准/Standard |
+| **Muskelmasse** | 44.8 kg | Standard |
+| **Knochenmasse** | 2.5 kg | Standard |
+| **Protein** | 16.3% | 标准/Standard |
+
+**Stoffwechsel:**
+- **BMR (Grundumsatz):** 1306 kcal/Tag (gemessen)
+- **Stoffwechselalter:** 40 Jahre (biologisches Alter = tatsächliches Alter)
+
+**Körpermaße:**
+- **Taillenumfang:** ~0.82 m (82 cm) - geschätzt
+- **Hüftumfang:** ~90 cm - geschätzt
+
+**Bewertung & Körpertyp:**
+- **Gesamt-Score:** 90 von 100 Punkten (sehr gut!)
+- **Körperfett-Level:** 标准偏高 (Standard-leicht erhöht)
+
+**Gesundheitsindikatoren:**
+- Gewichtsentwicklung: -0.85 kg in 3 Tagen (09.10. bis 14.10.)
+- BMI: 23.3 = oberer Bereich des Normalgewichts (18.5-24.9)
+- Körperfett: 32.0% = etwas erhöht für Frauen (optimal: 21-33%, durchschnittlich: 25-31%)
+- Viszerales Fett: Level 5 = gesund (< Level 10)
+- Muskelmasse: 44.8 kg = guter Wert
+- Körperwasser: 51% = gut hydratisiert
+
+**Analyse:**
+- **Positive Entwicklung:** Gewichtsabnahme von 0.85 kg seit 11.10. (gesunde Rate)
+- **Körperfett leicht erhöht:** 32.0%, aber noch im akzeptablen Bereich
+- **Gute Muskelmasse:** 44.8 kg Muskelmasse + 36.5% Skelettmuskel
+- **Stoffwechsel:** BMR 1306 kcal (app-gemessen) vs. 1348 kcal (Mifflin-St Jeor berechnet)
+- **Empfehlung:** Weiter Proteinreich essen (wie die letzten Tage), moderate Bewegung
+
+**Vergleich zu vorherigen Messungen:**
+- 09.10.2026: 66.05 kg, BMI 23.4, Körperfett 32.9%
+- 11.10.2026: 66.70 kg (Anstieg durch spätes Essen/Wassereinlagerung)
+- **14.10.2026: 65.85 kg, BMI 23.3, Körperfett 32.0%** ← **Verbesserung!**
+
+**Trend:**
+- Gewicht: ↓ -0.20 kg seit 09.10. (5 Tage)
+- Körperfett: ↓ -0.9% seit 09.10.
+- **Insgesamt positive Entwicklung!**
 
 ---
 
