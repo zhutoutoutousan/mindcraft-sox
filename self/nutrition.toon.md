@@ -745,6 +745,81 @@ Bild: `/workspace/assets/51F6278B-145E-4BCD-AE6E-5CCBF71364C8_L0_001.jpg`
 - Tagesbedarf (TDEE, mäßig aktiv): 2099 kcal
 - **Noch zu verbrauchen: 1364 kcal** (weitere Mahlzeiten folgen)
 
+#### Mahlzeit 2 (Mittagessen)
+Zeit: Mittag (~12:18 Uhr)
+Bilder: `/workspace/assets/09A7DFFC-6250-4C3D-98C9-9B8F3F08DF60_L0_001.jpg`, `/workspace/assets/1F13A508-6BF3-4862-9A9B-8CE59C4E9201_L0_001.jpg`
+
+**Gericht:** FROSTA Reis-Gemüse-Pfanne mit Curry (halbe Packung)
+
+**Komponenten:**
+
+**1. FROSTA Reis-Gemüse-Mix:**
+- Halbe Packung (250g von 500g gesamt) → ca. 255 kcal
+- **Zutaten laut Verpackung:**
+  - Gegarter Basmatireis (36%)
+  - Mariniertes, gegartes Hähnchenbrust (14%)
+  - Erbsen
+  - Karotten
+  - Lauch
+  - Zwiebeln
+  - Mungobohnenkeimlinge
+  - Wirsing
+  - Bambussprossen
+  - Sojasauce
+  - Sonnenblumenöl
+  - Salz
+  - Curry (Kurkuma, Kreuzkümmel, Koriander, Cayennepfeffer, Fenchel, Bockshornkleesamen)
+  - Zucker
+  - Kokosflocken
+  - Knoblauch
+
+**Nährwerte (250g = halbe Packung):**
+- Energie: ca. 255 kcal
+- Protein: ca. 14g (aus Hähnchen + Hülsenfrüchte)
+- Kohlenhydrate: ca. 38g (Basmatireis)
+- Fett: ca. 5g
+- Ballaststoffe: ca. 4.5g
+
+**Gesamtkalorien Mahlzeit 2:** ca. 255 kcal
+
+**Makronährstoffe:**
+- Protein: ~14g
+- Kohlenhydrate: ~38g
+- Fett: ~5g
+
+**Nährwertanalyse:**
+- Moderate Kalorien (255 kcal)
+- Gute Gemüsevielfalt (Erbsen, Karotten, Lauch, Zwiebeln, Bambussprossen, Wirsing)
+- Basmatireis als Hauptkohlenhydrat-Quelle
+- Curry-Gewürze (Kurkuma, Kreuzkümmel, Koriander) = entzündungshemmend
+- Fertiggericht von FROSTA (keine Zusatzstoffe, gute Qualität)
+- Protein etwas niedriger (14g), aber okay für Mittagessen
+- Asiatisch inspiriert mit deutscher Qualität
+- Praktisch und schnell zubereitet (8-9 Min Pfanne)
+
+---
+
+### Tagesbilanz 2026-10-14 (bisher)
+
+**Kalorienzufuhr gesamt:** 990 kcal
+  - Mahlzeit 1 (Frühstück): 735 kcal (59.5g Protein)
+  - Mahlzeit 2 (Mittagessen): 255 kcal (14g Protein)
+
+**Grundumsatz (BMR):** 1348 kcal
+**TDEE (geschätzt, mäßig aktiv):** 2099 kcal
+
+**Netto-Bilanz (bisher):**
+- Zufuhr: 990 kcal
+- Tagesbedarf (TDEE): 2099 kcal
+- **Noch zu verbrauchen: 1109 kcal** (weitere Mahlzeiten/Snacks)
+
+**Tagesanalyse (bisher):**
+- Makroverteilung: Protein ~73.5g, Kohlenhydrate ~70g, Fett ~45.5g
+- **Proteinzufuhr sehr gut** (73.5g = 1.12g/kg Körpergewicht) ✓✓✓
+- Hauptsächlich vom Frühstück (59.5g)
+- Moderate Kalorienzufuhr (990 kcal bisher)
+- Noch ~1100 kcal für Abendessen/Snacks übrig
+
 ---
 
 ### 2026-10-09 (Freitag)
