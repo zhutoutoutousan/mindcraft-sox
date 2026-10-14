@@ -691,6 +691,59 @@ Bild: `/workspace/assets/6E590B4A-3500-4AA4-9696-F2C35A2AA8D6_L0_001.jpg`
 - Körperfett: ↓ -0.9% seit 09.10.
 - **Insgesamt positive Entwicklung!**
 
+#### Mahlzeit 1 (Frühstück)
+Zeit: Morgen (~08:15 Uhr)
+Bild: `/workspace/assets/51F6278B-145E-4BCD-AE6E-5CCBF71364C8_L0_001.jpg`
+
+**Gericht:** Pizza-Fleischkäse mit Hähnchen, Brötchen und Latte Macchiato
+
+**Komponenten:**
+
+**1. Pizza-Fleischkäse/Paprika-Fleischkäse:**
+- Fleischkäse mit Paprika (halbe Scheibe): ~60g → ca. 180 kcal
+  - Protein: ~10g
+  - Fett: ~15g
+  - Mit Paprika-Stückchen
+  - Fettreich wie normaler Fleischkäse
+
+**2. Hähnchenschenkel (gebraten):**
+- Hähnchen (kleines Stück): ~40g → ca. 70 kcal
+  - Protein: ~8g
+  - Fett: ~4g
+  - Knusprig gebraten
+
+**3. Brötchen (halb):**
+- Weizenbrötchen (halbes): ~40g → ca. 105 kcal
+  - Kohlenhydrate: ~21g
+  - Protein: ~3.5g
+  - Fett: ~1.5g
+
+**4. Latte Macchiato (kleine Flasche):**
+- Latte Macchiato: ~250ml → ca. 100 kcal
+  - Protein: ~6g
+  - Kohlenhydrate: ~11g (Milchzucker)
+  - Fett: ~4g
+
+**Gesamtkalorien Mahlzeit 1:** ca. 455 kcal
+
+**Makronährstoffe:**
+- Protein: ~27.5g (gut!)
+- Kohlenhydrate: ~32g
+- Fett: ~24.5g
+
+**Nährwertanalyse:**
+- Proteinreich durch Fleischkäse und Hähnchen
+- Moderate Kalorien (455 kcal)
+- Herzhaftes deutsches Frühstück
+- Gute Proteinzufuhr am Morgen (27.5g)
+- Ausgewogen zwischen Protein, Kohlenhydraten und Fett
+- Latte Macchiato liefert zusätzlich Calcium
+
+**Aktuelle Bilanz (unvollständig):**
+- Zufuhr bisher: 455 kcal
+- Tagesbedarf (TDEE, mäßig aktiv): 2099 kcal
+- **Noch zu verbrauchen: 1644 kcal** (weitere Mahlzeiten folgen)
+
 ---
 
 ### 2026-10-09 (Freitag)
