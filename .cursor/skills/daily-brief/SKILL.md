@@ -1,6 +1,6 @@
 ---
 name: daily-brief
-description: Builds a German daily rest/train/learn LaTeX PDF into tmp/day-YYYY-MM-DD.pdf with muscle-group tables, weight/strength analysis, ontology figures, and forgetting-curve tracking. Use when the human asks for 每日报告, Tagesbericht, daily briefing, daily PDF, 日报, Kraftanalyse, Muskelgruppen, DOMS-Tabelle, or a latex pdf of today's plan.
+description: Builds a German daily rest/train/learn LaTeX PDF into tmp/day-YYYY-MM-DD.pdf with muscle-group tables, weight/strength analysis, ontology figures, and forgetting-curve tracking. Use when the human asks for 每日报告, Tagesbericht, daily briefing, daily PDF, 日报, Kraftanalyse, Muskelgruppen, DOMS-Tabelle, or a latex pdf of today's plan. Also covers nutrition/weight/activity summary PDFs (Ernährungsanalyse) with matplotlib diagrams and optional ngrok download.
 ---
 
 # Daily brief PDF
@@ -10,6 +10,18 @@ Write `tmp/day-YYYY-MM-DD.tex` from [template.tex](template.tex). Compile with:
 ```
 python .cursor/skills/daily-brief/scripts/compile.py tmp/day-YYYY-MM-DD.tex
 ```
+
+## Nutrition / weight / activity analysis
+
+When the human asks for Zusammenfassung of Wiegung / Nahrung / Sport with diagrams (and optional ngrok download):
+
+```
+python .cursor/skills/daily-brief/scripts/ernaerungsanalyse.py
+python .cursor/skills/daily-brief/scripts/compile.py tmp/day-YYYY-MM-DD.tex
+python .cursor/skills/daily-brief/scripts/serve_pdf_ngrok.py tmp/day-YYYY-MM-DD.pdf
+```
+
+Read particulars from `self/nutrition.toon.md` (and training if present). Keep charts as vector PDF includes. Do not invent completed meals, strength sets, or DOMS. `NGROK_TOKEN` / `NGROK_AUTHTOKEN` from secrets when serving.
 
 LaTeX and PDF **only** in `tmp/`. Never `.private/` or other organs. Body language is **German**. Keep Wordschatz app names as stored (德语助手 法语助手 西语助手). Do not invent ANSWER, sets, laps, RSVP, or a cleared joint.
 
