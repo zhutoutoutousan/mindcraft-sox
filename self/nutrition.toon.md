@@ -707,10 +707,10 @@ Bild: `/workspace/assets/51F6278B-145E-4BCD-AE6E-5CCBF71364C8_L0_001.jpg`
   - Fettreich wie normaler Fleischkäse
 
 **2. Hähnchenschenkel (gebraten):**
-- Hähnchen (kleines Stück): ~40g → ca. 70 kcal
-  - Protein: ~8g
-  - Fett: ~4g
-  - Knusprig gebraten
+- Hähnchen (1,5 Schenkel / ein ganzer + ein halber): ~200g → ca. 350 kcal
+  - Protein: ~40g (sehr hoch!)
+  - Fett: ~20g
+  - Knusprig gebraten mit Haut
 
 **3. Brötchen (halb):**
 - Weizenbrötchen (halbes): ~40g → ca. 105 kcal
@@ -724,25 +724,26 @@ Bild: `/workspace/assets/51F6278B-145E-4BCD-AE6E-5CCBF71364C8_L0_001.jpg`
   - Kohlenhydrate: ~11g (Milchzucker)
   - Fett: ~4g
 
-**Gesamtkalorien Mahlzeit 1:** ca. 455 kcal
+**Gesamtkalorien Mahlzeit 1:** ca. 735 kcal
 
 **Makronährstoffe:**
-- Protein: ~27.5g (gut!)
+- Protein: ~59.5g (SEHR HOCH! 💪💪)
 - Kohlenhydrate: ~32g
-- Fett: ~24.5g
+- Fett: ~40.5g
 
 **Nährwertanalyse:**
-- Proteinreich durch Fleischkäse und Hähnchen
-- Moderate Kalorien (455 kcal)
-- Herzhaftes deutsches Frühstück
-- Gute Proteinzufuhr am Morgen (27.5g)
-- Ausgewogen zwischen Protein, Kohlenhydraten und Fett
+- **SEHR PROTEINREICH** durch 1,5 Hähnchenschenkel + Fleischkäse (59.5g!)
+- Großzügiges, herzhaftes Frühstück (735 kcal)
+- Hervorragend für Muskelerhalt/-aufbau
+- Protein entspricht bereits 0.90g/kg Körpergewicht (nur vom Frühstück!)
+- Herzhaftes deutsches Frühstück mit viel Fleisch
 - Latte Macchiato liefert zusätzlich Calcium
+- Fast 60g Protein am Morgen = exzellenter Start!
 
 **Aktuelle Bilanz (unvollständig):**
-- Zufuhr bisher: 455 kcal
+- Zufuhr bisher: 735 kcal
 - Tagesbedarf (TDEE, mäßig aktiv): 2099 kcal
-- **Noch zu verbrauchen: 1644 kcal** (weitere Mahlzeiten folgen)
+- **Noch zu verbrauchen: 1364 kcal** (weitere Mahlzeiten folgen)
 
 ---
 
