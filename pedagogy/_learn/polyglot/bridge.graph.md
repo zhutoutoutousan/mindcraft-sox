@@ -97,3 +97,6 @@ V Session_2026_10_14_lunch_frosta_rice_toon kind=session date=unknown lang=de bo
 
 # ingest-session 2026-10-15T11:33:10Z 2026-10-15-breakfast-leberkaese.toon lang=de
 V Session_2026_10_15_breakfast_leberkaese_toon kind=session date=unknown lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-15-breakfast-leberkaese.toon.md
+
+# ingest-session 2026-10-15T12:14:39Z 2026-10-15-lunch-high-protein-salmon-pasta.toon lang=de
+V Session_2026_10_15_lunch_high_protein_salmon_pas kind=session date=unknown lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-15-lunch-high-protein-salmon-pasta.toon.md

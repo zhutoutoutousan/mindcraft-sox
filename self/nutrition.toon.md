@@ -891,7 +891,95 @@ Bild: `/workspace/assets/01a13f46-7838-7c95-9af9-354bc2a37f3a.jpg`
 - Proteinzufuhr gut (28g vom Frühstück)
 - Moderate Kalorienzufuhr (675 kcal bisher)
 - Noch ~1424 kcal für Mittagessen/Abendessen/Snacks übrig
-- Deftig-bayerisches Frühstück (Leberkäse-Semmel klassisch)
+- Deftig-bayarisches Frühstück (Leberkäse-Semmel klassisch)
+
+#### Mahlzeit 2 (Mittagessen)
+Zeit: Mittag (~12:12 Uhr)
+Bilder: `/workspace/assets/EC1185B0-8F1D-4F9B-A371-AB5748C56712_L0_001.jpg`, `/workspace/assets/89F71C78-35AE-4EA6-8455-98E60DC8FC67_L0_001.jpg`, `/workspace/assets/799A18D2-D576-46BB-86A1-F5D94E4C3D1A_L0_001.jpg`
+
+**Gericht:** REWE HIGH PROTEIN Bandnudeln mit Lachs, Gemüse und Kräuter-Sahne-Sauce + gebratenes Gemüse
+
+**Komponenten:**
+
+**1. REWE HIGH PROTEIN Fertiggericht (ganze Packung = 400g):**
+- **Zutaten laut Verpackung:**
+  - Gegarte Bandnudeln (21%): Wasser, Hartweizengrieß, Speisesalz
+  - Lachs (17%): Broccoli, Vollmilch, Sojabohnenöl, Zwiebeln, Sahne (3%)
+  - Sonnenblumenöl, modifizierte Stärke, Speisesalz, Zucker, Gewürze, Kräuter
+  - **Lachs ASC-zertifiziert** (nachhaltige Aquakultur aus Norwegen)
+  - Herkunft: Küste Norwegens, Kulturform: Netzgehege
+
+**Nährwerte (ganze Packung = 400g = 1 Portion):**
+- Energie: 489 kcal (2046 kJ)
+- Protein: **28g** (HIGH PROTEIN! 💪)
+- Kohlenhydrate: 37g (davon Zucker: 6g)
+- Fett: 24g (davon gesättigte: 6,8g)
+- Ballaststoffe: 6,2g
+- Salz: 2,9g
+
+**Nährwerte pro 100g:**
+- 122 kcal
+- Protein: 7g
+- Kohlenhydrate: 9,3g
+- Fett: 6g
+- Salz: 0,72g
+
+**2. Gebratenes Gemüse (halbe Portion):**
+- Zucchini (gebraten): ~80g → ca. 40 kcal
+- Zwiebeln (gebraten): ~50g → ca. 50 kcal
+- Paprika (rot, gebraten): ~40g → ca. 15 kcal
+- Öl zum Braten: ~5g → ca. 45 kcal
+
+**Gemüse gesamt:** ca. 150 kcal
+- Protein: ~3g
+- Kohlenhydrate: ~10g
+- Fett: ~10g (hauptsächlich Bratöl)
+
+**Gesamtkalorien Mahlzeit 2:** ca. 639 kcal
+
+**Makronährstoffe:**
+- Protein: ~31g (SEHR GUT! 💪)
+- Kohlenhydrate: ~47g
+- Fett: ~34g
+
+**Nährwertanalyse:**
+- Moderate Kalorien (639 kcal)
+- **Sehr hoher Proteingehalt** (31g) - hauptsächlich vom Lachs (17% in 400g = ~68g Lachs)
+- HIGH PROTEIN Label: 28g Protein pro Portion (7g pro 100g)
+- Bandnudeln als Hauptkohlenhydrat (Hartweizengrieß)
+- Lachs = Omega-3-Fettsäuren (EPA/DHA) ✓
+- ASC-zertifiziert = nachhaltige Fischerei ✓
+- Zusätzliches Gemüse (Zucchini, Paprika, Zwiebeln) = Vitamine + Ballaststoffe
+- Kräuter-Sahne-Sauce mit 3% Sahne (moderate Fettquelle)
+- Nutri-Score: C (akzeptabel)
+- Praktisches Fertiggericht mit gutem Proteingehalt
+- Kombiniert mit frischem Gemüse = ausgewogene Mahlzeit
+
+---
+
+### Tagesbilanz 2026-10-15 (bisher)
+
+**Kalorienzufuhr gesamt:** 1314 kcal
+  - Mahlzeit 1 (Frühstück): 675 kcal (28g Protein)
+  - Mahlzeit 2 (Mittagessen): 639 kcal (31g Protein)
+
+**Grundumsatz (BMR):** 1348 kcal
+**TDEE (geschätzt, mäßig aktiv):** 2099 kcal
+
+**Netto-Bilanz (bisher):**
+- Zufuhr: 1314 kcal
+- Tagesbedarf (TDEE): 2099 kcal
+- **Noch zu verbrauchen: 785 kcal** (Abendessen/Snacks)
+
+**Tagesanalyse (bisher):**
+- Makroverteilung: Protein ~59g, Kohlenhydrate ~93g, Fett ~75g
+- **Proteinzufuhr SEHR GUT** (59g = 0.90g/kg Körpergewicht) ✓✓✓
+  - Frühstück: 28g (Leberkäse)
+  - Mittagessen: 31g (Lachs + Nudeln)
+- Moderate Kalorienzufuhr (1314 kcal bisher)
+- Noch ~785 kcal für Abendessen/Snacks übrig
+- Beide Mahlzeiten proteinreich und sättigend
+- Omega-3 vom Lachs (Herzgesundheit, Entzündungshemmend)
 
 ---
 
