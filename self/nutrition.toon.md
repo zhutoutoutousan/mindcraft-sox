@@ -822,6 +822,79 @@ Bilder: `/workspace/assets/09A7DFFC-6250-4C3D-98C9-9B8F3F08DF60_L0_001.jpg`, `/w
 
 ---
 
+### 2026-10-15 (Donnerstag)
+
+#### Mahlzeit 1 (Frühstück)
+Zeit: Morgen (~11:30 Uhr)
+Bild: `/workspace/assets/01a13f46-7838-7c95-9af9-354bc2a37f3a.jpg`
+
+**Gericht:** Leberkäse mit Brötchen und Latte Macchiato
+
+**Komponenten:**
+
+**1. Leberkäse:**
+- Leberkäse (dicke Scheibe): ~120-140g → ca. 400 kcal
+  - Protein: ~17g
+  - Fett: ~35g
+  - Klassischer bayerischer/österreichischer Leberkäse
+  - Sehr fettreich (~30% Fett)
+
+**2. Brötchen (Semmel):**
+- Weizenbrötchen: 1 Stück (~70g) → ca. 190 kcal
+  - Kohlenhydrate: ~38g
+  - Protein: ~6g
+  - Fett: ~2g
+  - Frisch und knusprig
+
+**3. Latte Macchiato (klein):**
+- Latte Macchiato: ~200ml → ca. 85 kcal
+  - Milch (Vollmilch): ~150ml → ca. 95 kcal
+  - Espresso: ~50ml → ca. 5 kcal
+  - Protein: ~5g
+  - Kohlenhydrate: ~8g (Milchzucker)
+  - Fett: ~4g
+
+**Gesamtkalorien Mahlzeit 1:** ca. 675 kcal
+
+**Makronährstoffe:**
+- Protein: ~28g
+- Kohlenhydrate: ~46g
+- Fett: ~41g
+
+**Nährwertanalyse:**
+- Moderate bis hohe Kalorien (675 kcal)
+- Guter Proteingehalt (28g) vom Leberkäse
+- Fettreich (41g) durch Leberkäse (~30% Fett)
+- Kohlenhydrate hauptsächlich vom Brötchen (38g)
+- Klassisches deftig-bayerisches Frühstück
+- Latte Macchiato liefert zusätzlich Calcium und Protein
+- Sättigend durch Protein und Fett
+- Typische Metzgerei-Qualität (Leberkäse frisch geschnitten)
+
+---
+
+### Tagesbilanz 2026-10-15 (bisher)
+
+**Kalorienzufuhr gesamt:** 675 kcal
+  - Mahlzeit 1 (Frühstück): 675 kcal (28g Protein)
+
+**Grundumsatz (BMR):** 1348 kcal
+**TDEE (geschätzt, mäßig aktiv):** 2099 kcal
+
+**Netto-Bilanz (bisher):**
+- Zufuhr: 675 kcal
+- Tagesbedarf (TDEE): 2099 kcal
+- **Noch zu verbrauchen: 1424 kcal** (weitere Mahlzeiten/Snacks)
+
+**Tagesanalyse (bisher):**
+- Makroverteilung: Protein ~28g, Kohlenhydrate ~46g, Fett ~41g
+- Proteinzufuhr gut (28g vom Frühstück)
+- Moderate Kalorienzufuhr (675 kcal bisher)
+- Noch ~1424 kcal für Mittagessen/Abendessen/Snacks übrig
+- Deftig-bayerisches Frühstück (Leberkäse-Semmel klassisch)
+
+---
+
 ### 2026-10-09 (Freitag)
 
 #### Körperdaten / Body Metrics

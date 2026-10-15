@@ -94,3 +94,6 @@ V Session_2026_10_14_additional_chicken_leg_toon kind=session date=unknown lang=
 
 # ingest-session 2026-10-14T12:21:13Z 2026-10-14-lunch-frosta-rice.toon lang=de
 V Session_2026_10_14_lunch_frosta_rice_toon kind=session date=unknown lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-14-lunch-frosta-rice.toon.md
+
+# ingest-session 2026-10-15T11:33:10Z 2026-10-15-breakfast-leberkaese.toon lang=de
+V Session_2026_10_15_breakfast_leberkaese_toon kind=session date=unknown lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-15-breakfast-leberkaese.toon.md
