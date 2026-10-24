@@ -100,3 +100,6 @@ V Session_2026_10_15_breakfast_leberkaese_toon kind=session date=unknown lang=de
 
 # ingest-session 2026-10-15T12:14:39Z 2026-10-15-lunch-high-protein-salmon-pasta.toon lang=de
 V Session_2026_10_15_lunch_high_protein_salmon_pas kind=session date=unknown lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-15-lunch-high-protein-salmon-pasta.toon.md
+
+# ingest-session 2026-10-24T19:26:01Z 2026-10-24-de-untertitel-sam-reggie.toon lang=de
+V Session_2026_10_24_de_untertitel_sam_reggie_toon kind=session date=unknown lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-10-24-de-untertitel-sam-reggie.toon.md
