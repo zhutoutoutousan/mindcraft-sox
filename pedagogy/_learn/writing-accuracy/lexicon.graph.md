@@ -265,3 +265,19 @@ V Sent_2026_10_15_lunch_high_protein_salmon_pas_fix kind=sentence date=unknown l
 E Sent_2026_10_15_lunch_high_protein_salmon_pas_fix FIXES Sent_2026_10_15_lunch_high_protein_salmon_pas_raw
 E Sent_2026_10_15_lunch_high_protein_salmon_pas_raw FROM_SESSION Session_2026_10_15_lunch_high_protein_salmon_pas
 E Sent_2026_10_15_lunch_high_protein_salmon_pas_fix FROM_SESSION Session_2026_10_15_lunch_high_protein_salmon_pas
+
+# ingest-session 2026-11-13T12:24:38Z sprachkorrektur-sync lang=de
+V Session_sprachkorrektur_sync kind=session date=2026-11-13 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-11-13-sprachkorrektur-sync.toon.md
+V Sent_sprachkorrektur_sync_raw kind=sentence date=2026-11-13 lang=de role=raw
+V Sent_sprachkorrektur_sync_fix kind=sentence date=2026-11-13 lang=de role=corrected
+E Sent_sprachkorrektur_sync_fix FIXES Sent_sprachkorrektur_sync_raw
+E Sent_sprachkorrektur_sync_raw FROM_SESSION Session_sprachkorrektur_sync
+E Sent_sprachkorrektur_sync_fix FROM_SESSION Session_sprachkorrektur_sync
+
+# ingest-session 2026-11-13T12:35:12Z git-sync-pr lang=de
+V Session_git_sync_pr kind=session date=2026-11-13 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-11-13-git-sync-pr.toon.md
+V Sent_git_sync_pr_raw kind=sentence date=2026-11-13 lang=de role=raw
+V Sent_git_sync_pr_fix kind=sentence date=2026-11-13 lang=de role=corrected
+E Sent_git_sync_pr_fix FIXES Sent_git_sync_pr_raw
+E Sent_git_sync_pr_raw FROM_SESSION Session_git_sync_pr
+E Sent_git_sync_pr_fix FROM_SESSION Session_git_sync_pr

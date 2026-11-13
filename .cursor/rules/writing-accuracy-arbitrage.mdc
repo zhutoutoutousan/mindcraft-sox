@@ -21,6 +21,10 @@ python pedagogy/_learn/writing-accuracy/ingest_session.py --session pedagogy/_le
 
 That attaches Forms / session nodes to `lexicon.graph.md` + `bridge.graph.md`.
 
+## Always-active languages (human 2026-11-09)
+
+`es`, `de`, `ru` are always a writing sample: **one** marker word in a turn already triggers `methodHit` and the correction block (`ALWAYS_ACTIVE` in `.cursor/hooks/polyglot_detect.py`). Every other learning language stays on the two-marker threshold and counts only on demand. A session file is written and ingested per language the human actually wrote, Spanish included.
+
 ## Agent behavior
 
 1. Job first. Language second.

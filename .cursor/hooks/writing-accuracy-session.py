@@ -14,6 +14,9 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from polyglot_detect import ALWAYS_ACTIVE  # noqa: E402
+
 STATE = ROOT / "pedagogy" / "_learn" / "writing-accuracy" / "state.toon.md"
 METHOD = ROOT / "pedagogy" / "_learn" / "writing-accuracy" / "method.toon.md"
 PAIRING = ROOT / "pedagogy" / "_learn" / "polyglot" / "pairing.toon.md"
@@ -75,8 +78,15 @@ def main() -> int:
     one = parse_field(state, "oneFocus") or (focus[0] if focus else "")
     reuse = parse_field(state, "reuseNextSession")
     target = parse_field(state, "targetLang") or "de"
+    frames_field = parse_field(state, "frames")
+    frames_path = ROOT / frames_field if frames_field else (
+        ROOT / "pedagogy" / "_learn" / "polyglot" / "frames" / f"{target}.toon.md"
+    )
+    if not frames_path.is_file():
+        frames_path = FRAMES
     age_t = parse_field(_read(HORIZON), "age_target") or "35"
     count = parse_field(_read(HORIZON), "count") or "16"
+    always = ", ".join(ALWAYS_ACTIVE)
 
     bullets = "\n".join(f"  - {f}" for f in focus) if focus else "  - (no todayFocus yet)"
     last_p = parse_field(_read(SIGNAL), "primaryLang")
@@ -89,17 +99,21 @@ def main() -> int:
         f"({SIGNAL.as_posix()}). Empty tokenCount must not reset this to en. "
         f"Hook trace: {TRACE.as_posix()} (stdinKeys + promptChars; no prompt body).\n"
         "Hook flow: beforeSubmitPrompt runs polyglot_detect.analyze. If methodHit "
-        "(DE/FR/ES markers ≥2), this turn is a writing sample even after a ZH stretch. "
+        "(one marker in es/de/ru is enough; other learning languages need ≥2), this "
+        "turn is a writing sample even after a ZH stretch. "
         "Auto-writes GAP vertices into bridge.graph.md.\n"
+        f"Always active: {always} — one marker = sample, never let one pass uncorrected. "
+        "Other learning languages count on demand (≥2 markers).\n"
         "After minimal rewrite: write sessions/*.toon.md then run "
         "python pedagogy/_learn/writing-accuracy/ingest_session.py --session <file> "
         "so Forms attach. Do not wait to be asked.\n"
         "Grammar×lexicon: Frame owns slots; Lemma/Form fills slots; Chunk = filled Frame; "
-        f"oneFocus = one Frame. See {PAIRING.as_posix()} and {FRAMES.as_posix()}.\n"
+        f"oneFocus = one Frame. See {PAIRING.as_posix()} and {frames_path.as_posix()}.\n"
         "Rule: project job first. Minimal rewrite + one Frame focus. Not a grammar teacher. "
         "Do not edit product code for language logging.\n"
         "This sessionStart hook never prints a Korrektur. If last-signal.updated is stale "
-        "or primaryLang=en with tokenCount 0, still treat a DE/FR/ES chatbox turn as a sample.\n"
+        "or primaryLang=en with tokenCount 0, still treat a DE/FR/ES/RU chatbox turn as a sample. "
+        "Always active: es, de, ru — never let one of them pass uncorrected.\n"
         f"oneFocus: {one}\n"
         "todayFocus:\n"
         f"{bullets}\n"
@@ -117,6 +131,7 @@ def main() -> int:
         "env": {
             "WRITING_ACCURACY_TARGET": target,
             "WRITING_ACCURACY_ONE_FOCUS": one[:200],
+            "WRITING_ACCURACY_ALWAYS_ACTIVE": always,
             "POLYGLOT_HORIZON_AGE": age_t,
             "POLYGLOT_LANG_COUNT": count,
         },
