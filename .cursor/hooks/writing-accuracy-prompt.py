@@ -70,6 +70,7 @@ def write_signal(result: dict, added: list[str], now: str) -> None:
         f"tokenCount: {result['tokenCount']}",
         f"mix: {str(result['mix']).lower()}",
         f"methodHit: {str(result.get('methodHit', False)).lower()}",
+        f"alsoLangs: {json.dumps(result.get('alsoLangs') or [], ensure_ascii=True)}",
         f"scores: {json.dumps(result['scores'], ensure_ascii=True)}",
         f"graphUpserted: {json.dumps(added, ensure_ascii=True)}",
         "gaps:",
@@ -83,11 +84,14 @@ def write_signal(result: dict, added: list[str], now: str) -> None:
     else:
         lines.append("  - (none)")
     lines.append(
-        "agentRule: Job first. Gaps are already in pedagogy/_learn/polyglot/bridge.graph.md. "
-        "After minimal rewrite, write sessions/*.toon.md and run "
-        "python pedagogy/_learn/writing-accuracy/ingest_session.py --session <file> "
-        "so Forms attach to the language KG. Do not wait to be asked. "
-        "If methodHit: this utterance IS a target-lang sample even after a ZH stretch. "
+        "agentRule: Correction is automatic and first. Russian, then any alsoLangs, "
+        "then one frame in the primary language. If the sample is not Russian, the "
+        "first correction line is the Russian mirror of that frame. Then the job. "
+        "Always-active languages are es, de, ru: one marker already counts as a sample. "
+        "Other learning languages count on demand (two markers). "
+        "The full-version block always carries RU, DE and ES, even with no Spanish in the turn. "
+        "Ingest one session per language the human actually wrote. Do not wait. "
+        "Gaps are already in pedagogy/_learn/polyglot/bridge.graph.md. "
         "beforeSubmitPrompt cannot show a Korrektur in the UI (user_message only when blocked)."
     )
     lines.append("pairing: pedagogy/_learn/polyglot/pairing.toon.md")
@@ -305,9 +309,15 @@ def main() -> int:
             "<writing_accuracy_this_turn>\n"
             f"polyglot_detect methodHit=true primary={result['primaryLang']} "
             f"target={result['targetLang']} tokens={result['tokenCount']}\n"
-            "This chatbox turn is a writing-accuracy sample. Job first, then minimal "
-            "rewrite in the reply + ingest_session.py. A prior ZH stretch does not skip this. "
-            "Do not wait for a hook toast. beforeSubmitPrompt cannot display a Korrektur.\n"
+            "This chatbox turn is a writing-accuracy sample. Put the correction first, "
+            "automatically: Russian line first (the Russian fragment, or the Russian "
+            "mirror of the one frame when the sample is not Russian), then any also= "
+            "language, then the same one frame in the primary language. "
+            "es, de, ru are always active: one marker in the turn already counts. "
+            "The full version line block always carries RU, DE and ES. "
+            "Ingest one session per language the human actually wrote. Then the job. "
+            "A prior ZH stretch does not skip this. Do not wait for a hook toast. "
+            "beforeSubmitPrompt cannot display a Korrektur.\n"
             "</writing_accuracy_this_turn>"
         )
         out["additional_context"] = this_turn

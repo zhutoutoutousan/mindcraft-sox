@@ -17,4 +17,17 @@
 - `tmp/` 生成的视频和 PDF。只保留 `tmp/ttl.toon.md`。
 - `checkpoints/` 模型权重。已忽略。
 
-技能在 `.cursor/skills/`。cron 在 `cron/`。求职聊天和简历对照没有放进来。
+技能在 `.cursor/skills/`，Qoder 的副本在 `.qoder/skills/`。cron 在 `cron/`。求职聊天和简历对照没有放进来。
+
+## 语言纠错（sprachkorrektur）
+
+俄语和德语的写作纠错已经装上，两个工具都注册了 hook：
+
+- `.cursor/hooks.json`（Cursor）：`sessionStart` + `beforeSubmitPrompt`
+- `.qoder/settings.json`（Qoder）：`SessionStart` + `UserPromptSubmit`
+- 规则：`.cursor/rules/de-ru-tutor.mdc` · `.qoder/rules/de-ru-tutor.md`（每轮 RU→DE→ZH + 纠错块）
+- 技能：`.cursor/skills/de-ru-tutor/` · `.qoder/skills/de-ru-tutor/`
+- 检测：`es`/`de`/`ru` 一个标记词即算写作样本，其他学习语言要两个
+- 存储：`pedagogy/_learn/writing-accuracy/` + `pedagogy/_learn/polyglot/`
+
+`pedagogy/_learn/writing-accuracy/state.toon.md` 现在还是 `status: empty`。填好 `todayFocus` 并改成 `status: active` 之后，hook 才会注入焦点并把缺口写进 `bridge.graph.md`。

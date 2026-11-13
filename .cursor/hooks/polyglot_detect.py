@@ -102,6 +102,26 @@ MARKERS: dict[str, set[str]] = {
         "vergessen",
         "dass",
         "daß",
+        "danke",
+        "hallo",
+        "gut",
+        "guten",
+        "ja",
+        "nein",
+        "doch",
+        "mal",
+        "sehr",
+        "mehr",
+        "gern",
+        "gerne",
+        "muss",
+        "kann",
+        "kannst",
+        "sind",
+        "habe",
+        "haben",
+        "wird",
+        "werden",
     },
     "en": {
         "the",
@@ -176,6 +196,26 @@ MARKERS: dict[str, set[str]] = {
         "haz",
         "sin",
         "pero",
+        "gracias",
+        "necesito",
+        "necesitas",
+        "quiero",
+        "puedes",
+        "podría",
+        "podrias",
+        "fichero",
+        "archivo",
+        "trabajo",
+        "hacer",
+        "favor",
+        "vale",
+        "bueno",
+        "muy",
+        "tengo",
+        "estoy",
+        "todo",
+        "aquí",
+        "cosa",
     },
     "fr": {
         "le",
@@ -199,12 +239,100 @@ MARKERS: dict[str, set[str]] = {
         "mais",
         "aussi",
     },
+    # Distinctive function words only. Shared items (que, la, para) stay on
+    # the language that already owned them so one overlap cannot flip primary.
+    "it": {
+        "non",
+        "sono",
+        "oggi",
+        "anche",
+        "questo",
+        "questa",
+        "perché",
+        "perche",
+        "io",
+    },
+    "pt": {
+        "não",
+        "nao",
+        "você",
+        "voce",
+        "obrigado",
+        "isso",
+        "estou",
+    },
+    "fi": {
+        "että",
+        "etta",
+        "minä",
+        "mina",
+        "tämä",
+        "tama",
+        "tänään",
+        "tanaan",
+        "mutta",
+        "koska",
+        "olen",
+    },
+    "vi": {
+        "không",
+        "khong",
+        "tôi",
+        "toi",
+        "bạn",
+        "ban",
+        "này",
+        "nay",
+        "được",
+        "duoc",
+    },
+    "ru": {
+        "привет",
+        "здравствуйте",
+        "пожалуйста",
+        "это",
+        "что",
+        "мне",
+        "меня",
+        "вы",
+        "ты",
+        "как",
+        "сегодня",
+        "сейчас",
+        "не",
+    },
 }
 
-# Latin words, CJK runs, or hybrid code-switch like 内化-ed
+# Roster learning languages. en / zh / wuu stay native and are not samples.
+NONLATIN = ("ru", "el", "ar", "hi", "ja", "ko")
+LATIN_LEARNING = ("de", "fr", "es", "it", "pt", "fi", "vi")
+LEARNING = LATIN_LEARNING + NONLATIN
+
+# Human 2026-11-09: these three are always a sample, one marker is enough.
+# Other learning languages stay on the two-marker threshold and count only on demand.
+ALWAYS_ACTIVE = ("es", "de", "ru")
+
+# Latin, Cyrillic, Greek, Arabic, Devanagari, Kana, Hangul, CJK, or 内化-ed.
 TOKEN_RE = re.compile(
-    r"[A-Za-zÀ-ÿÄÖÜäöüß]+|[\u4e00-\u9fff]+(?:-[A-Za-z]+)?",
+    r"[A-Za-zÀ-ÿÄÖÜäöüß]+"
+    r"|[\u0400-\u04FF]+"
+    r"|[\u0370-\u03FF\u1F00-\u1FFF]+"
+    r"|[\u0600-\u06FF]+"
+    r"|[\u0900-\u097F]+"
+    r"|[\u3040-\u30FF]+"
+    r"|[\uAC00-\uD7AF]+"
+    r"|[\u4e00-\u9fff]+(?:-[A-Za-z]+)?",
     re.UNICODE,
+)
+
+_SCRIPT_RX: tuple[tuple[str, re.Pattern[str]], ...] = (
+    ("ru", re.compile(r"[\u0400-\u04FF]")),
+    ("el", re.compile(r"[\u0370-\u03FF\u1F00-\u1FFF]")),
+    ("ar", re.compile(r"[\u0600-\u06FF]")),
+    ("hi", re.compile(r"[\u0900-\u097F]")),
+    ("ja", re.compile(r"[\u3040-\u30FF]")),
+    ("ko", re.compile(r"[\uAC00-\uD7AF]")),
+    ("zh", re.compile(r"[\u4e00-\u9fff]")),
 )
 
 
@@ -255,19 +383,11 @@ def tokenize(text: str) -> list[str]:
     return TOKEN_RE.findall(text or "")
 
 
-def script_mass(tokens: list[str]) -> Counter:
-    c: Counter = Counter()
-    for t in tokens:
-        if re.search(r"[\u4e00-\u9fff]", t):
-            # Per token, not per character — otherwise a ZH stretch drowns DE/FR markers.
-            c["zh"] += 1
-        elif re.search(r"[ÄÖÜäöüß]", t):
-            c["de"] += 2
-        elif re.search(r"[À-ÿ]", t):
-            c["romance"] += 1
-        else:
-            c["latin"] += 1
-    return c
+def script_of(token: str) -> str | None:
+    for lang, rx in _SCRIPT_RX:
+        if rx.search(token):
+            return lang
+    return None
 
 
 def score_langs(tokens: list[str]) -> Counter:
@@ -277,30 +397,49 @@ def score_langs(tokens: list[str]) -> Counter:
         for t in lower:
             if t in words:
                 scores[lang] += 1
-    sm = script_mass(tokens)
-    if sm.get("zh", 0):
-        scores["zh"] += sm["zh"]
-    if sm.get("de", 0):
-        scores["de"] += sm["de"]
-    # weak prior: latin-only unmarked tokens don't invent a language
+    for raw in tokens:
+        script = script_of(raw)
+        if script:
+            # Per token, not per character — a ZH stretch must not drown markers.
+            scores[script] += 1
+        elif re.search(r"[ÄÖÜäöüß]", raw):
+            scores["de"] += 2
     return scores
 
 
-def primary_lang(text: str, default: str = "en") -> tuple[str, Counter]:
+def primary_lang(text: str, target: str = "de", default: str = "en") -> tuple[str, Counter]:
     tokens = tokenize(text)
     if not tokens:
         return default, Counter()
     scores = score_langs(tokens)
     if not scores:
-        if any(re.search(r"[\u4e00-\u9fff]", t) for t in tokens):
-            return "zh", Counter(zh=len(tokens))
         return default, Counter()
-    # Grammar-word evidence beats CJK mass: after a ZH stretch, a DE/FR/ES
-    # coding prompt still counts as attempting that language (≥2 markers).
-    for lang in ("de", "fr", "es"):
-        if scores.get(lang, 0) >= 2:
-            return lang, scores
+    # Highest learning-language score wins. A tie prefers the parked target,
+    # then Russian and the other non-Latin roster languages, so they are not
+    # dropped behind German, French, or Spanish.
+    cands = [lang for lang in LEARNING if scores.get(lang, 0) >= 2]
+    if cands:
+        best = max(scores[lang] for lang in cands)
+        top = [lang for lang in cands if scores[lang] == best]
+        if target in top:
+            return target, scores
+        for lang in NONLATIN:
+            if lang in top:
+                return lang, scores
+        return top[0], scores
     return scores.most_common(1)[0][0], scores
+
+
+def also_langs(scores: Counter, primary: str) -> list[str]:
+    """Other roster languages actually in the turn. Non-Latin first."""
+    out: list[str] = []
+    for lang in NONLATIN + LATIN_LEARNING:
+        if lang == primary:
+            continue
+        need = 1 if lang in NONLATIN else 2
+        if scores.get(lang, 0) >= need:
+            out.append(lang)
+    return out
 
 
 def foreign_islands(
@@ -356,7 +495,12 @@ def foreign_islands(
         if low in ALLOW or (raw.isupper() and len(raw) <= 6):
             continue
         src = None
-        if re.search(r"[\u4e00-\u9fff]", raw):
+        script = script_of(raw)
+        if script in NONLATIN:
+            # A Russian (or el/ar/hi/ja/ko) word is its own sample, not a
+            # missing French or German form.
+            continue
+        if script == "zh" or re.search(r"[\u4e00-\u9fff]", raw):
             src = "zh"
         else:
             for lang, words in MARKERS.items():
@@ -384,23 +528,32 @@ def foreign_islands(
 
 
 def analyze(text: str, target: str = "de") -> dict:
-    primary, scores = primary_lang(text, default="en")
-    # Prefer target as primary when it is a close second (coding prompt mostly in target).
-    if target in scores and primary != target:
-        if scores[target] >= scores[primary] * 0.8 or scores[target] >= 2:
-            primary = target
+    primary, scores = primary_lang(text, target=target, default="en")
+    # Prefer the parked target only when the turn is otherwise native (en/zh).
+    # Do not relabel a Russian or German sample as French because targetLang is fr.
+    if (
+        target in scores
+        and primary in {"en", "zh"}
+        and primary != target
+        and (scores[target] >= 2 or scores[target] >= scores[primary] * 0.8)
+    ):
+        primary = target
+    others = also_langs(scores, primary)
     gaps = foreign_islands(text, primary, target, scores)
     n = len(tokenize(text))
     method_hit = bool(n) and (
-        scores.get(target, 0) >= 2
-        or (primary in {"de", "fr", "es"} and scores.get(primary, 0) >= 2)
+        any(scores.get(lang, 0) >= 1 for lang in ALWAYS_ACTIVE)
+        or scores.get(target, 0) >= 2
+        or any(scores.get(lang, 0) >= 2 for lang in LEARNING)
+        or any(scores.get(lang, 0) >= 1 for lang in NONLATIN)
     )
     return {
         "primaryLang": primary,
         "targetLang": target,
+        "alsoLangs": others,
         "scores": dict(scores),
         "gaps": gaps,
         "tokenCount": n,
-        "mix": bool(gaps),
+        "mix": bool(gaps) or bool(others),
         "methodHit": method_hit,
     }
