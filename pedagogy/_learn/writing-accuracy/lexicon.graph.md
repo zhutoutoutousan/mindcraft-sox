@@ -273,3 +273,11 @@ V Sent_sprachkorrektur_sync_fix kind=sentence date=2026-11-13 lang=de role=corre
 E Sent_sprachkorrektur_sync_fix FIXES Sent_sprachkorrektur_sync_raw
 E Sent_sprachkorrektur_sync_raw FROM_SESSION Session_sprachkorrektur_sync
 E Sent_sprachkorrektur_sync_fix FROM_SESSION Session_sprachkorrektur_sync
+
+# ingest-session 2026-11-13T12:35:12Z git-sync-pr lang=de
+V Session_git_sync_pr kind=session date=2026-11-13 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-11-13-git-sync-pr.toon.md
+V Sent_git_sync_pr_raw kind=sentence date=2026-11-13 lang=de role=raw
+V Sent_git_sync_pr_fix kind=sentence date=2026-11-13 lang=de role=corrected
+E Sent_git_sync_pr_fix FIXES Sent_git_sync_pr_raw
+E Sent_git_sync_pr_raw FROM_SESSION Session_git_sync_pr
+E Sent_git_sync_pr_fix FROM_SESSION Session_git_sync_pr

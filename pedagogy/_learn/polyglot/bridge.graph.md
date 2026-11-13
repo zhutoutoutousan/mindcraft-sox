@@ -107,3 +107,10 @@ V Focus_sprachkorrektur_sync kind=focus lang=de gloss="'Nomen großschreiben: sp
 E Focus_sprachkorrektur_sync FROM_SESSION Session_sprachkorrektur_sync
 V Lemma_de_fix_sprachkorrektur_sync kind=lemma lang=de surface='Sprachkorrektur' role=minimal-rewrite
 E Lemma_de_fix_sprachkorrektur_sync FROM_SESSION Session_sprachkorrektur_sync SOURCE=pedagogy/_learn/writing-accuracy/sessions/2026-11-13-sprachkorrektur-sync.toon.md
+
+# ingest-session 2026-11-13T12:35:12Z git-sync-pr lang=de
+V Session_git_sync_pr kind=session date=2026-11-13 lang=de body=pedagogy/_learn/writing-accuracy/sessions/2026-11-13-git-sync-pr.toon.md
+V Focus_git_sync_pr kind=focus lang=de gloss="'Dativ nach mit: mit dem Remote (nicht mit den Rem" status=active
+E Focus_git_sync_pr FROM_SESSION Session_git_sync_pr
+V Lemma_de_fix_git_sync_pr kind=lemma lang=de surface="'Bitte synchronisieren Sie mit dem Remote; GitHub " role=minimal-rewrite
+E Lemma_de_fix_git_sync_pr FROM_SESSION Session_git_sync_pr SOURCE=pedagogy/_learn/writing-accuracy/sessions/2026-11-13-git-sync-pr.toon.md
